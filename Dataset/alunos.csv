@@ -1,11 +1,501 @@
 IdAluno,idPolo,Nome,Sobrenome,Idade,Etnia,Genero,UF,email,endereco,cidade
-293597029258663266702780157705067074005,246691019404583592204460667434329110630,Sra. Helena Nascimento,Nascimento,20,"Caboclo,",Não-binário,SP,srahelenanascimento@gmail.com,Lago Maitê Ribeiro,Nunes
-190334107971169698549303044305243127205,60419928452869001767256624054767446165,Emanuel Martins,Martins,24,Indígena,Não-binário,SP,emanuelmartins@yahoo.com.br,Esplanada Maria Eduarda Azevedo,Campos da Prata
-121817626515050309914770799890321788036,60419928452869001767256624054767446165,Gabrielly da Mota,Mota,18,Indígena,Não-binário,SC,gabriellydamota@hotmail.com.br,Setor de Teixeira,Castro
-285021351159702456045417934784503158414,60419928452869001767256624054767446165,Olivia da Cunha,Cunha,16,Branco,Não-binário,SC,oliviadacunha@instituicao.com.br,Sítio de Freitas,Castro Grande
-58437210113813581318757122932644740753,246691019404583592204460667434329110630,Henrique da Mata,Mata,19,"Caboclo,",Feminino,MA,henriquedamata@yahoo.com.br,Núcleo Luiz Gustavo Ribeiro,Duarte do Norte
-100569665379868084053766315431133040797,15098176446112835347385145658054298665,Bárbara Souza,Souza,23,Cafuzo,Não-binário,CE,barbarasouza@instituicao.com.br,Campo Maitê Santos,da Conceição do Amparo
-292024771519129251530491705434481844470,246691019404583592204460667434329110630,Renan das Neves,Neves,27,Branco,Masculino,PE,renandasneves@yahoo.com.br,Lago de Cardoso,Araújo de Goiás
-66523863252394170572861530566490060238,60419928452869001767256624054767446165,Rebeca Lima,Lima,23,Negro,Masculino,BA,rebecalima@gmail.com,Loteamento Caroline Campos,Alves
-187140289107631463579605153313544023711,15098176446112835347385145658054298665,João Lucas Cavalcanti,Cavalcanti,18,Mulato,Não-binário,AM,joaolucascavalcanti@gmail.com,Travessa Monteiro,Pinto de Correia
-34620266173042650847476699797205735221,60419928452869001767256624054767446165,Sr. Felipe das Neves,Neves,14,Branco,Feminino,CE,srfelipedasneves@hotmail.com,Residencial Anthony Porto,Fogaça
+229321665940590324884773212163029960546,73023621043493693710616048034559118789,Lucca Fernandes,Fernandes,21,Negro,Feminino,CE,luccafernandes@instituicao.com.br,Trevo Melo,Rocha
+197732676858796614319598227769746109780,150960631607822148473208702186217417186,Maysa Monteiro,Monteiro,27,Indígena,Feminino,PI,maysamonteiro@instituicao.com.br,Rodovia Rodrigues,da Luz do Oeste
+206328899242884703209980767736670222327,73023621043493693710616048034559118789,Luiz Fernando Costela,Costela,20,Cafuzo,Masculino,MG,luizfernandocostela@bol.com.br,Jardim de Barros,Viana
+77234911940265885672698452166183268588,73023621043493693710616048034559118789,Camila da Mata,Mata,17,Indígena,Masculino,RJ,camiladamata@bol.com.br,Quadra Caldeira,Peixoto
+22608061077535749372018123085931431943,150960631607822148473208702186217417186,Raquel Oliveira,Oliveira,16,Negro,Não-binário,CE,raqueloliveira@instituicao.com.br,Rua Ryan Silva,Novaes
+240083212373977440542431258544466414426,73023621043493693710616048034559118789,Joaquim da Costa,Costa,23,Pardo,Não-binário,PR,joaquimdacosta@outlook.com.br,Sítio da Mata,Ferreira de Monteiro
+143678215184615839535459948594768333896,332968233551916963987068204105993647469,Maria Eduarda Cavalcanti,Cavalcanti,27,Pardo,Não-binário,AM,mariaeduardacavalcanti@gmail.com,Pátio Gomes,Rezende do Campo
+284165645628346558973293786637377675760,73023621043493693710616048034559118789,Catarina Silveira,Silveira,19,Cafuzo,Feminino,SP,catarinasilveira@instituicao.com.br,Vereda da Mota,Pinto
+86887936192552905150415216696919657599,150960631607822148473208702186217417186,Rafael Pires,Pires,24,Caboclo,Masculino,PR,rafaelpires@outlook.com.br,Recanto de Porto,Novaes de Goiás
+37583857097236218709944816822430952077,73023621043493693710616048034559118789,Alexia da Costa,Costa,25,Indígena,Não-binário,MA,alexiadacosta@outlook.com.br,Feira de Teixeira,Porto
+22384945863439567265279392870029482609,73023621043493693710616048034559118789,Brenda da Luz,Luz,27,Negro,Não-binário,MG,brendadaluz@outlook.com.br,Aeroporto Francisco Campos,Vieira do Norte
+297300470834958239143395115189362977725,332968233551916963987068204105993647469,Luiz Miguel Jesus,Jesus,21,Pardo,Masculino,MA,luizmigueljesus@gmail.com,Ladeira Bryan Pereira,Ribeiro
+187598797551712906903061953134033493017,332968233551916963987068204105993647469,Bárbara Novaes,Novaes,18,Caboclo,Feminino,PE,barbaranovaes@yahoo.com.br,Praia Silva,Fernandes
+9084527236685660465009544047543529434,73023621043493693710616048034559118789,Sr. Bryan Moraes,Moraes,16,Caboclo,Masculino,CE,srbryanmoraes@live.com.br,Passarela Porto,Nascimento
+255988873995143074913591514328708879547,73023621043493693710616048034559118789,Eloah Pinto,Pinto,18,Cafuzo,Não-binário,PI,eloahpinto@yahoo.com.br,Ladeira Maria Luiza da Conceição,Monteiro de Minas
+305274848482634460338849700216512715082,73023621043493693710616048034559118789,Fernando Campos,Campos,17,Cafuzo,Não-binário,PR,fernandocampos@hotmail.com,Travessa da Rosa,Ferreira
+294500348897997888612908599064912412960,150960631607822148473208702186217417186,Mirella Dias,Dias,16,Negro,Não-binário,AM,mirelladias@hotmail.com.br,Área Rodrigues,Teixeira
+254806964900948365224911808993805860626,332968233551916963987068204105993647469,Bárbara da Conceição,Conceição,26,Pardo,Masculino,MG,barbaradaconceicao@yahoo.com.br,Residencial de Novaes,Fernandes de Silveira
+106224791017928271456735946589333705774,73023621043493693710616048034559118789,Ana Lívia Oliveira,Oliveira,14,Indígena,Não-binário,MA,analiviaoliveira@hotmail.com,Chácara da Rocha,Azevedo
+295038705906932797338411109545282078611,73023621043493693710616048034559118789,Isis da Cruz,Cruz,21,Mulato,Masculino,MG,isisdacruz@yahoo.com.br,Distrito Nogueira,Gomes do Sul
+236968154327597207864802451110407513012,150960631607822148473208702186217417186,Enzo Souza,Souza,16,Cafuzo,Feminino,PI,enzosouza@live.com.br,Lagoa Diogo Azevedo,da Paz
+214298062142436345297870448014244449443,150960631607822148473208702186217417186,Yuri Araújo,Araújo,18,Negro,Masculino,SP,yuriaraujo@hotmail.com.br,Pátio de Peixoto,Azevedo
+243033665403991490531224972135405535975,150960631607822148473208702186217417186,Emilly Monteiro,Monteiro,21,Caboclo,Não-binário,SP,emillymonteiro@bol.com.br,Viaduto de Rodrigues,Dias
+316599258409173307257611190678755726844,73023621043493693710616048034559118789,Maria Clara Moreira,Moreira,17,Negro,Masculino,RJ,mariaclaramoreira@yahoo.com.br,Conjunto da Rocha,Pereira da Mata
+30614611865895108949439442510860248420,332968233551916963987068204105993647469,Pietra Gonçalves,Gonçalves,26,Mulato,Feminino,MA,pietragoncalves@hotmail.com,Vale Araújo,Lima
+329551936757343777909194679395922469441,332968233551916963987068204105993647469,Sr. Rafael Teixeira,Teixeira,21,Branco,Masculino,AM,srrafaelteixeira@instituicao.com.br,Jardim Larissa Nogueira,da Rosa do Sul
+123231856957390428127902685406446923641,332968233551916963987068204105993647469,Lorenzo Silveira,Silveira,22,Cafuzo,Masculino,AM,lorenzosilveira@gmail.com,Praia de Rezende,Peixoto das Pedras
+192229257163965314113467466175779619124,150960631607822148473208702186217417186,Emilly Barbosa,Barbosa,15,Branco,Não-binário,PI,emillybarbosa@yahoo.com.br,Rodovia de Ferreira,da Cruz
+163602341421196939309165276044531386367,150960631607822148473208702186217417186,Dr. Nicolas Jesus,Jesus,19,Branco,Não-binário,BA,drnicolasjesus@hotmail.com,Quadra Barros,Melo
+22754394567615235988656999187400068015,73023621043493693710616048034559118789,Kamilly Nascimento,Nascimento,21,Cafuzo,Feminino,SC,kamillynascimento@instituicao.com.br,Rodovia Pietra da Paz,Cunha
+224765274772196774442536836548674657342,73023621043493693710616048034559118789,Rebeca Pinto,Pinto,26,Branco,Masculino,CE,rebecapinto@hotmail.com.br,Feira Bryan Caldeira,Martins Alegre
+313395012506082733955274408549938621932,332968233551916963987068204105993647469,Dra. Eloah da Cruz,Cruz,14,Mulato,Não-binário,AM,draeloahdacruz@outlook.com.br,Avenida de Fogaça,Pinto
+299413659406578563104275511167671839856,73023621043493693710616048034559118789,Stephany Nogueira,Nogueira,18,Pardo,Não-binário,SP,stephanynogueira@live.com.br,Parque de Pereira,Campos
+210066692884496166829459714598823643634,73023621043493693710616048034559118789,Luiz Henrique Teixeira,Teixeira,22,Branco,Feminino,PI,luizhenriqueteixeira@instituicao.com.br,Lago de Freitas,Mendes do Norte
+42057675030949851557521094268618849354,73023621043493693710616048034559118789,Julia Freitas,Freitas,20,Branco,Masculino,SC,juliafreitas@outlook.com.br,Praia Natália Peixoto,Vieira
+269363599832574105425769731904962734039,332968233551916963987068204105993647469,Isadora da Cruz,Cruz,20,Pardo,Masculino,PE,isadoradacruz@hotmail.com.br,Estrada Enrico Moraes,Oliveira de da Mota
+127552137796282630915337578914096026639,150960631607822148473208702186217417186,Juliana Novaes,Novaes,23,Negro,Não-binário,PR,juliananovaes@yahoo.com.br,Largo Pereira,Araújo Grande
+110964616982702878176550588066726694848,150960631607822148473208702186217417186,Maitê Nunes,Nunes,20,Negro,Não-binário,PR,maitenunes@gmail.com,Parque de Nogueira,Aragão
+105942014715776966456228564565357341528,150960631607822148473208702186217417186,Maysa Porto,Porto,26,Negro,Masculino,AM,maysaporto@bol.com.br,Setor João Lucas Azevedo,Araújo de Teixeira
+20741063999090540427022296839699700007,73023621043493693710616048034559118789,Maria Clara Souza,Souza,19,Cafuzo,Não-binário,MA,mariaclarasouza@instituicao.com.br,Colônia Lima,Fogaça do Sul
+292181297417208995743134448859259445045,73023621043493693710616048034559118789,Isadora Moraes,Moraes,22,Pardo,Não-binário,PI,isadoramoraes@gmail.com,Lagoa Ana Clara Nascimento,Jesus da Praia
+317064158960091806395672148891931343746,150960631607822148473208702186217417186,Brenda Gomes,Gomes,22,Negro,Masculino,SP,brendagomes@instituicao.com.br,Conjunto Enrico da Mota,Azevedo
+61941590012065994286505735955073339476,332968233551916963987068204105993647469,Dr. Francisco Vieira,Vieira,17,Cafuzo,Masculino,PR,drfranciscovieira@hotmail.com.br,Praça Luiz Felipe Lopes,Farias da Prata
+31080662334519084949082241770545604035,332968233551916963987068204105993647469,Sr. Nicolas Rodrigues,Rodrigues,19,Caboclo,Masculino,RJ,srnicolasrodrigues@bol.com.br,Trevo de Fogaça,Viana Alegre
+186560195209980731682959474860164735311,150960631607822148473208702186217417186,Laís Lima,Lima,26,Branco,Não-binário,BA,laislima@hotmail.com,Colônia de Gomes,Melo
+312633042885663738895821440716083493461,73023621043493693710616048034559118789,Diogo Gomes,Gomes,25,Indígena,Não-binário,AM,diogogomes@bol.com.br,Campo Aragão,Ramos
+277637327091261875430020689469887095346,150960631607822148473208702186217417186,Ana Laura Monteiro,Monteiro,22,Negro,Não-binário,CE,analauramonteiro@instituicao.com.br,Favela de Moraes,Costa Alegre
+120351336798390400361396854171362456295,150960631607822148473208702186217417186,Brenda Cardoso,Cardoso,21,Indígena,Não-binário,PE,brendacardoso@instituicao.com.br,Fazenda Freitas,Lima dos Dourados
+143693557179542282527121537880374071542,150960631607822148473208702186217417186,Sr. Fernando Peixoto,Peixoto,15,Caboclo,Masculino,BA,srfernandopeixoto@yahoo.com.br,Estação Vitor Hugo Cardoso,Jesus
+298192726498263804132018393126818216407,73023621043493693710616048034559118789,Sr. Thales Nunes,Nunes,16,Indígena,Feminino,PI,srthalesnunes@bol.com.br,Lago de da Paz,Correia
+247502541919453922271658330877046485127,332968233551916963987068204105993647469,Luiz Fernando Silveira,Silveira,21,Caboclo,Não-binário,BA,luizfernandosilveira@live.com.br,Fazenda Isadora Melo,Nunes
+36522013007297854626093805243793750251,73023621043493693710616048034559118789,Raquel Costela,Costela,14,Pardo,Feminino,MA,raquelcostela@outlook.com.br,Travessa Araújo,da Paz
+240866533215897512969480636544415662730,73023621043493693710616048034559118789,Luiz Fernando Duarte,Duarte,17,Cafuzo,Feminino,PI,luizfernandoduarte@bol.com.br,Vila de Teixeira,Moraes
+44341087738153420158660110862530124145,150960631607822148473208702186217417186,Enzo Campos,Campos,17,Indígena,Não-binário,MG,enzocampos@hotmail.com.br,Vereda de Teixeira,das Neves de Farias
+10474071322943248525673069376974374971,73023621043493693710616048034559118789,Henrique da Paz,Paz,20,Cafuzo,Masculino,BA,henriquedapaz@gmail.com,Fazenda Porto,Araújo
+141936352770943007663413473075210102445,73023621043493693710616048034559118789,Samuel Jesus,Jesus,16,Negro,Feminino,PI,samueljesus@bol.com.br,Trevo Paulo Campos,da Rocha de Campos
+245387305908479491964171729019653704864,332968233551916963987068204105993647469,Srta. Sofia Nascimento,Nascimento,26,Indígena,Masculino,PR,srtasofianascimento@yahoo.com.br,Favela Francisco Castro,Carvalho
+150972180305126026425650643560979238387,332968233551916963987068204105993647469,Arthur da Cunha,Cunha,25,Indígena,Masculino,CE,arthurdacunha@outlook.com.br,Praia Laura Caldeira,Mendes Verde
+239528831620446920363419520463964119208,332968233551916963987068204105993647469,Sr. Nicolas Correia,Correia,15,Negro,Feminino,BA,srnicolascorreia@outlook.com.br,Parque de Aragão,das Neves de Costa
+73035622185051389751497904973193866996,150960631607822148473208702186217417186,Murilo Souza,Souza,26,Branco,Não-binário,MG,murilosouza@instituicao.com.br,Pátio Aragão,Cardoso
+220735765254319473543661143404214247538,73023621043493693710616048034559118789,Ana Luiza Cardoso,Cardoso,14,Mulato,Não-binário,SP,analuizacardoso@instituicao.com.br,Condomínio Thiago Araújo,Barbosa de da Conceição
+146278756330624787229887750943024672577,150960631607822148473208702186217417186,Luiz Henrique Teixeira,Teixeira,18,Pardo,Feminino,MA,luizhenriqueteixeira@hotmail.com,Área Nina da Mota,Nascimento
+109742753946819444953930176374463048578,73023621043493693710616048034559118789,Paulo Araújo,Araújo,16,Mulato,Feminino,BA,pauloaraujo@yahoo.com.br,Setor de da Cunha,Souza de Oliveira
+59787959171412346751499719886148652087,150960631607822148473208702186217417186,Rebeca Farias,Farias,18,Indígena,Não-binário,CE,rebecafarias@live.com.br,Parque Nunes,Souza
+295780047564865718245338665234753529548,332968233551916963987068204105993647469,Gustavo Henrique da Luz,Luz,26,Pardo,Não-binário,RJ,gustavohenriquedaluz@yahoo.com.br,Largo Teixeira,Souza da Mata
+236706911064758854799411926801622904696,150960631607822148473208702186217417186,Breno da Cruz,Cruz,18,Negro,Não-binário,RJ,brenodacruz@yahoo.com.br,Via Peixoto,Monteiro do Norte
+19560651064845924907770527662981294937,150960631607822148473208702186217417186,Pietra Rocha,Rocha,24,Mulato,Não-binário,CE,pietrarocha@hotmail.com.br,Jardim Luiz Miguel Fernandes,Ribeiro do Galho
+43515846983629268356202359361874171649,150960631607822148473208702186217417186,Nathan Farias,Farias,24,Caboclo,Masculino,PI,nathanfarias@yahoo.com.br,Favela de Moraes,Rodrigues
+125221893745828154314101524201223384578,150960631607822148473208702186217417186,Maria Eduarda Castro,Castro,20,Caboclo,Não-binário,MG,mariaeduardacastro@gmail.com,Residencial Pereira,Ribeiro do Norte
+33520324578311841494017552461916744529,332968233551916963987068204105993647469,Kaique Nogueira,Nogueira,15,Indígena,Feminino,SP,kaiquenogueira@gmail.com,Sítio Murilo Vieira,Moreira
+282913741579402680419889137950914572736,150960631607822148473208702186217417186,Rebeca Costa,Costa,26,Mulato,Não-binário,MA,rebecacosta@gmail.com,Setor Lorenzo Mendes,Dias Verde
+184160199677446729261949118217469900250,332968233551916963987068204105993647469,Sr. Gustavo Nunes,Nunes,16,Caboclo,Não-binário,PI,srgustavonunes@hotmail.com.br,Setor Oliveira,da Cruz de Cardoso
+51294367386542545949416885346228518295,150960631607822148473208702186217417186,Heitor da Cunha,Cunha,26,Pardo,Feminino,AM,heitordacunha@yahoo.com.br,Distrito Gabriela Costela,Pereira de Lopes
+301158201714284723793171308202415631832,150960631607822148473208702186217417186,Marcos Vinicius Campos,Campos,21,Pardo,Feminino,MG,marcosviniciuscampos@yahoo.com.br,Recanto Theo Ribeiro,Sales
+68212386175532084943635138731433028262,150960631607822148473208702186217417186,Ana Laura Viana,Viana,25,Mulato,Não-binário,PI,analauraviana@yahoo.com.br,Aeroporto Novaes,Souza
+61371967671536612899580276390083550739,150960631607822148473208702186217417186,Yago Carvalho,Carvalho,14,Mulato,Masculino,MA,yagocarvalho@hotmail.com,Núcleo Porto,Cavalcanti
+271197155841988931547205889688519070010,150960631607822148473208702186217417186,Heloísa Cavalcanti,Cavalcanti,26,Branco,Masculino,CE,heloisacavalcanti@instituicao.com.br,Passarela Natália Cunha,Ribeiro Verde
+107966128026234488240103472829187522372,150960631607822148473208702186217417186,Sr. Otávio da Luz,Luz,17,Branco,Feminino,MA,srotaviodaluz@bol.com.br,Passarela de da Mota,Silva de Pinto
+57484251295869234897197298358936704012,73023621043493693710616048034559118789,Francisco Rezende,Rezende,16,Cafuzo,Não-binário,PE,franciscorezende@hotmail.com.br,Aeroporto Henrique Oliveira,Gonçalves do Norte
+289468940257377475492129019962647536265,150960631607822148473208702186217417186,Vinicius Souza,Souza,19,Negro,Masculino,PR,viniciussouza@hotmail.com.br,Ladeira Oliveira,Gonçalves
+34850281126085064989042599937068902696,150960631607822148473208702186217417186,Laís Azevedo,Azevedo,16,Branco,Masculino,PE,laisazevedo@instituicao.com.br,Ladeira Mirella Mendes,Ramos Paulista
+219368078644104693485658505073206028289,73023621043493693710616048034559118789,Thiago Pires,Pires,23,Caboclo,Masculino,PR,thiagopires@yahoo.com.br,Alameda Fernanda Farias,da Conceição de das Neves
+145196257435577729414568695832411518660,73023621043493693710616048034559118789,Breno Nascimento,Nascimento,24,Mulato,Masculino,SP,brenonascimento@live.com.br,Alameda Cardoso,Azevedo
+253850171820381238452143156756269535769,150960631607822148473208702186217417186,Murilo Castro,Castro,20,Negro,Feminino,MG,murilocastro@yahoo.com.br,Parque de Nogueira,Gonçalves
+219416068961489511258148627256506788893,332968233551916963987068204105993647469,Lucca Azevedo,Azevedo,24,Branco,Não-binário,MG,luccaazevedo@gmail.com,Quadra de Silveira,Rocha
+89857945115861013187613770098848576117,332968233551916963987068204105993647469,Bruno Barros,Barros,27,Cafuzo,Não-binário,SP,brunobarros@bol.com.br,Condomínio Ana Duarte,Lima
+328095604856837897236182588064757085303,73023621043493693710616048034559118789,Yuri Silva,Silva,22,Branco,Masculino,MG,yurisilva@live.com.br,Lagoa de Moraes,Dias do Galho
+302452452090720272553843018265889356891,332968233551916963987068204105993647469,Leandro Novaes,Novaes,14,Negro,Não-binário,PR,leandronovaes@yahoo.com.br,Ladeira Agatha da Costa,Vieira
+314375607130713164174047472197402255032,73023621043493693710616048034559118789,Dr. Carlos Eduardo Duarte,Duarte,26,Cafuzo,Feminino,RJ,drcarloseduardoduarte@hotmail.com.br,Pátio de Oliveira,Moraes
+4248988061563117608611194011225069699,150960631607822148473208702186217417186,Sr. Luiz Miguel da Cunha,Cunha,17,Cafuzo,Feminino,SC,srluizmigueldacunha@yahoo.com.br,Distrito Fernandes,Cardoso do Galho
+336158754351833379304487500572501140253,332968233551916963987068204105993647469,Maria Luiza Castro,Castro,26,Cafuzo,Feminino,CE,marialuizacastro@outlook.com.br,Campo de Ramos,Monteiro
+205221930854265343720646863016989827563,332968233551916963987068204105993647469,Levi Vieira,Vieira,27,Caboclo,Não-binário,PI,levivieira@hotmail.com.br,Pátio Silveira,Silveira das Flores
+265842691131315986754664217814545100860,73023621043493693710616048034559118789,Theo Dias,Dias,21,Indígena,Feminino,SC,theodias@yahoo.com.br,Largo de Melo,da Paz
+4983719748321590023935175658745574406,150960631607822148473208702186217417186,Sophia Viana,Viana,18,Cafuzo,Feminino,CE,sophiaviana@hotmail.com.br,Jardim de Martins,da Costa de Oliveira
+176028930694719199148367420525881655136,332968233551916963987068204105993647469,Raul Teixeira,Teixeira,23,Cafuzo,Masculino,PR,raulteixeira@instituicao.com.br,Recanto de Campos,Carvalho
+277436621175706571648551358380034975095,73023621043493693710616048034559118789,Sr. Juan da Costa,Costa,15,Indígena,Não-binário,SC,srjuandacosta@bol.com.br,Ladeira Maria Cecília Costela,Moraes do Galho
+280635646459790324968528124143590633307,73023621043493693710616048034559118789,Maria Luiza Freitas,Freitas,24,Pardo,Não-binário,SC,marialuizafreitas@bol.com.br,Feira de Nunes,Jesus
+76662882550897614870947102154619968351,332968233551916963987068204105993647469,Ana Luiza Barbosa,Barbosa,20,Negro,Não-binário,SC,analuizabarbosa@yahoo.com.br,Sítio de Pinto,Souza da Prata
+23505402124523132167201848615797799826,150960631607822148473208702186217417186,Maria Clara Carvalho,Carvalho,16,Cafuzo,Feminino,PE,mariaclaracarvalho@bol.com.br,Ladeira de da Mata,Moraes Alegre
+204804801375712810987338716222781794526,150960631607822148473208702186217417186,Nicole Nascimento,Nascimento,22,Pardo,Masculino,PI,nicolenascimento@outlook.com.br,Viela de Freitas,Nunes
+52375873116544911698186591078185611964,332968233551916963987068204105993647469,Rebeca da Mata,Mata,15,Pardo,Masculino,PI,rebecadamata@hotmail.com,Recanto Maria Alice Pinto,Ferreira do Oeste
+19470556346795203389162795597525434603,73023621043493693710616048034559118789,Pietra Jesus,Jesus,15,Indígena,Não-binário,PI,pietrajesus@yahoo.com.br,Rua de da Conceição,Farias
+106583413496852739205016087979344915832,150960631607822148473208702186217417186,Juliana Peixoto,Peixoto,15,Negro,Feminino,AM,julianapeixoto@live.com.br,Feira da Mata,Lopes
+288694533542310875933283801242293293407,150960631607822148473208702186217417186,Milena da Rosa,Rosa,18,Branco,Masculino,MA,milenadarosa@outlook.com.br,Alameda de Moreira,Gonçalves dos Dourados
+311314542603312063192771673173505596863,73023621043493693710616048034559118789,Isabella Farias,Farias,19,Mulato,Masculino,PR,isabellafarias@hotmail.com,Campo da Paz,Barros de Costa
+46102717348629296605318480295053779780,332968233551916963987068204105993647469,Pedro Lopes,Lopes,14,Caboclo,Masculino,BA,pedrolopes@live.com.br,Ladeira de Gomes,Silva
+22873934040499954625436887894490944201,332968233551916963987068204105993647469,Dr. Carlos Eduardo Rocha,Rocha,14,Indígena,Não-binário,AM,drcarloseduardorocha@bol.com.br,Sítio de Cavalcanti,da Conceição de Goiás
+299090677897704236313968975346458480043,332968233551916963987068204105993647469,Alexia das Neves,Neves,27,Pardo,Feminino,PR,alexiadasneves@hotmail.com.br,Morro de da Cunha,Freitas
+14807838171058543188668215606096645044,150960631607822148473208702186217417186,Emanuel Mendes,Mendes,27,Negro,Masculino,SC,emanuelmendes@instituicao.com.br,Jardim de da Paz,Santos
+62370169689200650188422179081411471693,73023621043493693710616048034559118789,Gabriel Gomes,Gomes,27,Negro,Masculino,MA,gabrielgomes@hotmail.com,Aeroporto Valentina Aragão,Rezende Paulista
+115541439048957855288749836309978756058,150960631607822148473208702186217417186,Leandro Vieira,Vieira,27,Caboclo,Feminino,MA,leandrovieira@live.com.br,Quadra de Freitas,Barbosa de Cardoso
+116185171226007517773766953414396424018,150960631607822148473208702186217417186,Maria Sophia Moreira,Moreira,24,Indígena,Não-binário,SP,mariasophiamoreira@hotmail.com,Aeroporto Silva,Souza
+38367843110546457234842584615939193025,332968233551916963987068204105993647469,Caio Alves,Alves,19,Pardo,Feminino,CE,caioalves@live.com.br,Rodovia de Cardoso,Gonçalves de Duarte
+204972469900673666688017702389989153257,332968233551916963987068204105993647469,Isabella Moreira,Moreira,26,Pardo,Feminino,PI,isabellamoreira@instituicao.com.br,Vila de Cardoso,da Mata
+29026529685051221115565607041478350128,332968233551916963987068204105993647469,Emanuella Lima,Lima,25,Pardo,Feminino,CE,emanuellalima@gmail.com,Distrito de Cavalcanti,Moreira do Campo
+246705369130892316444126167092230976811,332968233551916963987068204105993647469,Sra. Bianca das Neves,Neves,21,Branco,Masculino,AM,srabiancadasneves@instituicao.com.br,Rodovia Alice da Rosa,Lima
+86206009603354909580514564222132551641,332968233551916963987068204105993647469,Lucca da Rocha,Rocha,26,Branco,Masculino,PE,luccadarocha@hotmail.com,Conjunto de Azevedo,da Paz
+176694499386406469065435826170310749709,73023621043493693710616048034559118789,Daniela Moreira,Moreira,17,Cafuzo,Não-binário,AM,danielamoreira@instituicao.com.br,Fazenda de Dias,Pires
+281779369817137962581657331351593977487,332968233551916963987068204105993647469,Bruno da Mata,Mata,24,Caboclo,Feminino,BA,brunodamata@live.com.br,Estrada Daniel Gomes,Nogueira de Goiás
+262303843673001883961380998726077346005,150960631607822148473208702186217417186,Ana Carolina da Luz,Luz,21,Cafuzo,Masculino,MG,anacarolinadaluz@instituicao.com.br,Via Sofia Viana,da Cunha
+300982646978890425085043612364400771012,332968233551916963987068204105993647469,Vitor Gabriel Mendes,Mendes,14,Caboclo,Masculino,PI,vitorgabrielmendes@bol.com.br,Passarela Alexia Rocha,Gonçalves
+245415544266923279025761583884625554729,332968233551916963987068204105993647469,Olivia Lopes,Lopes,23,Caboclo,Não-binário,CE,olivialopes@gmail.com,Via Calebe da Rosa,da Luz da Serra
+253823315458495018291786201078765230553,73023621043493693710616048034559118789,Sofia Duarte,Duarte,23,Cafuzo,Feminino,PE,sofiaduarte@gmail.com,Favela Ribeiro,Ribeiro
+188043158036113649051706744427747284117,73023621043493693710616048034559118789,Gustavo Henrique da Luz,Luz,15,Negro,Feminino,BA,gustavohenriquedaluz@bol.com.br,Distrito da Cunha,Viana
+238981805021324310891788383067977690111,73023621043493693710616048034559118789,Srta. Sarah Viana,Viana,18,Branco,Masculino,PI,srtasarahviana@hotmail.com.br,Sítio Luiz Fernando Monteiro,Freitas
+194017148829573168908549667482605548694,332968233551916963987068204105993647469,Maria Clara Pinto,Pinto,15,Indígena,Feminino,PR,mariaclarapinto@hotmail.com.br,Fazenda Almeida,Mendes
+317873454927127177562421308535248675701,150960631607822148473208702186217417186,Elisa Rodrigues,Rodrigues,16,Caboclo,Masculino,BA,elisarodrigues@hotmail.com,Travessa Cavalcanti,Freitas de Goiás
+146418595680628376112418790526358271444,73023621043493693710616048034559118789,Luiz Fernando Viana,Viana,19,Cafuzo,Não-binário,MA,luizfernandoviana@hotmail.com,Conjunto Lucas Nogueira,Jesus de Rodrigues
+105360917412156149357985999657112821032,73023621043493693710616048034559118789,Dr. João Guilherme Cunha,Cunha,20,Mulato,Não-binário,SP,drjoaoguilhermecunha@hotmail.com.br,Chácara Pedro Henrique Cardoso,Fogaça do Campo
+33562619242763628327678520320555119160,73023621043493693710616048034559118789,Isis da Luz,Luz,16,Indígena,Masculino,BA,isisdaluz@hotmail.com,Aeroporto Moraes,Castro
+97965035360544601886399557934628451914,332968233551916963987068204105993647469,Ana Clara Campos,Campos,20,Pardo,Não-binário,AM,anaclaracampos@instituicao.com.br,Feira Luiza Souza,Porto de Correia
+247472998630600016693404479405448355383,332968233551916963987068204105993647469,Cauã Campos,Campos,27,Pardo,Feminino,AM,cauacampos@yahoo.com.br,Largo de Pires,Farias
+102073096462166632559216080404520843727,332968233551916963987068204105993647469,Isis Aragão,Aragão,25,Pardo,Masculino,RJ,isisaragao@outlook.com.br,Passarela Fogaça,Rocha
+256725199973171174615052928879987008127,332968233551916963987068204105993647469,Levi Moraes,Moraes,15,Cafuzo,Masculino,AM,levimoraes@hotmail.com,Aeroporto de Peixoto,Almeida
+118622891051350650507336972635618563634,150960631607822148473208702186217417186,Marcelo Martins,Martins,25,Caboclo,Não-binário,CE,marcelomartins@live.com.br,Quadra Almeida,Araújo
+138519294105166058133488311782495820582,73023621043493693710616048034559118789,Melissa Caldeira,Caldeira,24,Mulato,Masculino,PE,melissacaldeira@outlook.com.br,Avenida João Gabriel Barbosa,Porto
+62584098695523495813034273327457888727,150960631607822148473208702186217417186,Pietro Teixeira,Teixeira,23,Branco,Feminino,PE,pietroteixeira@yahoo.com.br,Parque de Mendes,Porto de da Rosa
+247724446715633106071782516982834978507,150960631607822148473208702186217417186,Sr. Pedro Miguel Silveira,Silveira,25,Mulato,Masculino,SC,srpedromiguelsilveira@outlook.com.br,Setor Silva,Rocha de da Cruz
+67028083369809352172570358458988282454,73023621043493693710616048034559118789,Alícia Lopes,Lopes,15,Indígena,Masculino,SC,alicialopes@instituicao.com.br,Feira de Campos,Nunes do Campo
+284279959583690753476871180566527362087,73023621043493693710616048034559118789,João Cunha,Cunha,27,Branco,Masculino,SP,joaocunha@bol.com.br,Trevo de Costa,Moraes das Pedras
+197260331951683687713783222696548041939,332968233551916963987068204105993647469,Laís Farias,Farias,24,Caboclo,Não-binário,MA,laisfarias@bol.com.br,Viaduto de da Cruz,Cavalcanti
+109659564204654662911714184140801139313,150960631607822148473208702186217417186,Sra. Sabrina Araújo,Araújo,19,Branco,Não-binário,MG,srasabrinaaraujo@outlook.com.br,Quadra Moreira,Cavalcanti Alegre
+296495438030728541432732691600059349518,150960631607822148473208702186217417186,Davi Luiz Silveira,Silveira,15,Caboclo,Não-binário,AM,daviluizsilveira@gmail.com,Quadra Maria Fernanda Ribeiro,Carvalho
+151059773893747950752972648747808365263,150960631607822148473208702186217417186,Felipe Dias,Dias,23,Negro,Masculino,CE,felipedias@outlook.com.br,Chácara de Duarte,Farias
+74367061984594980976553230946517414304,150960631607822148473208702186217417186,Maria Luiza Mendes,Mendes,20,Branco,Feminino,PI,marialuizamendes@hotmail.com,Chácara Helena da Conceição,Fernandes
+132058023894887327662204730871643816082,150960631607822148473208702186217417186,Kamilly das Neves,Neves,22,Pardo,Masculino,SP,kamillydasneves@instituicao.com.br,Conjunto Pedro Henrique Dias,da Rosa
+177117062319707286861741075648574219732,73023621043493693710616048034559118789,Giovanna Porto,Porto,14,Caboclo,Feminino,AM,giovannaporto@live.com.br,Quadra Igor Fernandes,Nunes de Farias
+17538393914660619422764916803206314931,73023621043493693710616048034559118789,Luiz Gustavo Farias,Farias,25,Pardo,Feminino,PI,luizgustavofarias@hotmail.com,Praça João Felipe Carvalho,Oliveira
+124604987028162171909954601175090714905,150960631607822148473208702186217417186,Amanda Pinto,Pinto,17,Indígena,Masculino,PE,amandapinto@bol.com.br,Campo Leandro Castro,Nogueira
+251109541024352172949854408855769715625,332968233551916963987068204105993647469,Dr. Heitor Santos,Santos,16,Mulato,Não-binário,PI,drheitorsantos@bol.com.br,Núcleo de Freitas,Carvalho
+314970015640699183564752812942642789563,150960631607822148473208702186217417186,Dra. Sophie Silveira,Silveira,22,Cafuzo,Masculino,BA,drasophiesilveira@instituicao.com.br,Favela Bryan Aragão,Melo da Prata
+133098016870530086031125021539322413453,150960631607822148473208702186217417186,Camila Lima,Lima,27,Negro,Não-binário,MG,camilalima@gmail.com,Travessa Monteiro,Azevedo
+311986286235859250699257751243099110071,73023621043493693710616048034559118789,Evelyn Araújo,Araújo,22,Pardo,Masculino,BA,evelynaraujo@yahoo.com.br,Vila Correia,Viana
+301265125487471293313021371030767497945,73023621043493693710616048034559118789,Dra. Laís Costela,Costela,20,Caboclo,Não-binário,MG,dralaiscostela@hotmail.com.br,Condomínio Sarah da Mota,Carvalho da Mata
+63772577348433157687591123794319613626,73023621043493693710616048034559118789,Dr. Gustavo Vieira,Vieira,21,Negro,Masculino,PI,drgustavovieira@yahoo.com.br,Avenida Monteiro,Lopes
+119963950915498361333615154400377540114,73023621043493693710616048034559118789,Gustavo Henrique Dias,Dias,25,Branco,Feminino,MG,gustavohenriquedias@live.com.br,Passarela de Pinto,Castro
+159398288158117073073200490623762905797,73023621043493693710616048034559118789,Emanuelly Dias,Dias,25,Cafuzo,Masculino,PR,emanuellydias@hotmail.com,Travessa Silva,Lopes da Prata
+91846592361600937222946039934249259252,332968233551916963987068204105993647469,Ana Clara Campos,Campos,26,Pardo,Não-binário,RJ,anaclaracampos@yahoo.com.br,Travessa Gomes,Moreira
+179608710014676575168010626610986282084,150960631607822148473208702186217417186,Ian Campos,Campos,27,Mulato,Feminino,RJ,iancampos@yahoo.com.br,Alameda Vitor Moreira,Barros de Minas
+294755883155824167147739609545805295256,73023621043493693710616048034559118789,João Pedro Duarte,Duarte,15,Negro,Não-binário,AM,joaopedroduarte@bol.com.br,Estação Sales,Peixoto do Sul
+2423457134428128270744918982962775228,150960631607822148473208702186217417186,Alexandre Costela,Costela,20,Mulato,Feminino,MG,alexandrecostela@instituicao.com.br,Quadra Carolina Costela,Silveira
+18132183834279305853706646313498307247,150960631607822148473208702186217417186,Daniel Cardoso,Cardoso,15,Pardo,Masculino,MA,danielcardoso@hotmail.com.br,Distrito de Pinto,Carvalho
+23153392496266359882138786696706522811,73023621043493693710616048034559118789,Noah Aragão,Aragão,15,Cafuzo,Feminino,SP,noaharagao@yahoo.com.br,Jardim Cardoso,Oliveira de Caldeira
+249318116462895844866323987703953218507,332968233551916963987068204105993647469,Srta. Ana Lívia Rodrigues,Rodrigues,23,Mulato,Feminino,SP,srtaanaliviarodrigues@live.com.br,Sítio Thales Fogaça,Pereira
+160353272889233889853721327858929940995,150960631607822148473208702186217417186,Clara Nogueira,Nogueira,17,Branco,Não-binário,MG,claranogueira@live.com.br,Vila de Costela,Costela
+335376281808297379996116074324195020549,73023621043493693710616048034559118789,Marcos Vinicius Teixeira,Teixeira,19,Negro,Não-binário,SC,marcosviniciusteixeira@instituicao.com.br,Núcleo de Melo,Rezende
+163623227177362965982182843535349710922,150960631607822148473208702186217417186,Olivia Souza,Souza,25,Indígena,Feminino,MG,oliviasouza@hotmail.com.br,Avenida das Neves,Alves da Prata
+9931542828341681199457688622836562482,332968233551916963987068204105993647469,Calebe Azevedo,Azevedo,23,Negro,Feminino,RJ,calebeazevedo@instituicao.com.br,Fazenda de da Luz,Oliveira da Prata
+49592606869286940298908473555991342344,332968233551916963987068204105993647469,Breno Dias,Dias,26,Caboclo,Feminino,AM,brenodias@instituicao.com.br,Setor Pedro Lucas Alves,Costela de Costa
+222656037712409908935504769420318621861,150960631607822148473208702186217417186,Sr. Daniel Cunha,Cunha,19,Caboclo,Masculino,RJ,srdanielcunha@instituicao.com.br,Alameda Esther da Cunha,Fernandes
+9272748649279489091692997959158081941,332968233551916963987068204105993647469,Mariane das Neves,Neves,24,Branco,Feminino,AM,marianedasneves@bol.com.br,Travessa Samuel Rezende,Viana de Santos
+189427813436434173318151812815453287906,332968233551916963987068204105993647469,Alícia Mendes,Mendes,21,Caboclo,Feminino,SP,aliciamendes@bol.com.br,Pátio Nascimento,Moraes Paulista
+291919683180099289888752498768308889762,332968233551916963987068204105993647469,Luiz Miguel Lopes,Lopes,14,Pardo,Masculino,SP,luizmiguellopes@hotmail.com.br,Setor de da Conceição,Costa
+332792757356663813499155774512186517124,332968233551916963987068204105993647469,Srta. Daniela Silveira,Silveira,27,Pardo,Feminino,CE,srtadanielasilveira@yahoo.com.br,Travessa Lara Santos,Freitas
+162448422297989988723204361196409929695,332968233551916963987068204105993647469,Eloah Oliveira,Oliveira,26,Cafuzo,Não-binário,SC,eloaholiveira@yahoo.com.br,Morro Cardoso,Fogaça de Goiás
+195153882624144212289097685090518051293,332968233551916963987068204105993647469,Pedro Henrique Lopes,Lopes,27,Pardo,Masculino,SP,pedrohenriquelopes@gmail.com,Lago Mirella da Paz,Lima
+211807003814486347061947674843810759894,150960631607822148473208702186217417186,Giovanna Freitas,Freitas,21,Indígena,Feminino,RJ,giovannafreitas@outlook.com.br,Favela de Mendes,Pires da Serra
+134263749473038543640225973166746313063,73023621043493693710616048034559118789,Giovanna Santos,Santos,19,Mulato,Masculino,PI,giovannasantos@instituicao.com.br,Residencial Júlia da Rosa,Rezende do Norte
+206252463556587747078627830099210876721,73023621043493693710616048034559118789,Marina Melo,Melo,16,Pardo,Masculino,CE,marinamelo@live.com.br,Colônia Castro,Cardoso
+217926578103554300639615688790376294890,332968233551916963987068204105993647469,Vitor Hugo da Rocha,Rocha,26,Caboclo,Feminino,CE,vitorhugodarocha@hotmail.com,Avenida Moura,Almeida
+227481791639692811311275150855716018575,150960631607822148473208702186217417186,Lara Aragão,Aragão,26,Pardo,Masculino,BA,laraaragao@hotmail.com,Morro Freitas,Campos das Pedras
+211249238133884814829046986049772660030,332968233551916963987068204105993647469,Sr. Renan Porto,Porto,20,Indígena,Não-binário,MG,srrenanporto@instituicao.com.br,Campo Farias,Gonçalves
+3599027253092736971898539568543024557,73023621043493693710616048034559118789,Sra. Maria da Cunha,Cunha,16,Cafuzo,Feminino,RJ,sramariadacunha@live.com.br,Avenida Guilherme Alves,da Cunha de Duarte
+206279308871876809385989984686332745318,73023621043493693710616048034559118789,Pedro Lucas Silveira,Silveira,14,Indígena,Masculino,MG,pedrolucassilveira@outlook.com.br,Setor Ferreira,Nascimento
+14999707256222579093471111635833414392,332968233551916963987068204105993647469,Lucas Silva,Silva,18,Indígena,Masculino,PR,lucassilva@outlook.com.br,Fazenda da Mota,Teixeira
+46327022158280635949064908484516529915,332968233551916963987068204105993647469,Ana Luiza Cavalcanti,Cavalcanti,22,Pardo,Masculino,RJ,analuizacavalcanti@live.com.br,Praia Ramos,Silva do Sul
+92709133130162816371599366547603866786,332968233551916963987068204105993647469,Emanuelly Melo,Melo,20,Negro,Feminino,PE,emanuellymelo@outlook.com.br,Via Theo Caldeira,Peixoto da Serra
+194234593490521981941286943068062046207,332968233551916963987068204105993647469,Lorena Azevedo,Azevedo,15,Branco,Não-binário,MG,lorenaazevedo@yahoo.com.br,Estação Fogaça,Jesus
+244927503319289132211227024632079885466,73023621043493693710616048034559118789,Juliana Campos,Campos,27,Pardo,Feminino,PI,julianacampos@gmail.com,Vila Pietro Pires,Moraes Verde
+116613881247821840133454866611381578709,332968233551916963987068204105993647469,Davi da Mata,Mata,27,Caboclo,Não-binário,PI,davidamata@hotmail.com,Lago Amanda Fernandes,Araújo
+176586700791637944599187088063608383271,73023621043493693710616048034559118789,Maria Alice Teixeira,Teixeira,18,Branco,Não-binário,PR,mariaaliceteixeira@gmail.com,Campo Souza,Rocha das Pedras
+11374651667645474808229216462226940258,332968233551916963987068204105993647469,João Gabriel Viana,Viana,26,Pardo,Feminino,AM,joaogabrielviana@yahoo.com.br,Largo Camila Pereira,Farias
+91299096905992722458971445245282005881,73023621043493693710616048034559118789,Vitor Hugo Lopes,Lopes,14,Caboclo,Não-binário,PI,vitorhugolopes@outlook.com.br,Vila Guilherme Barbosa,da Mata dos Dourados
+334485898025414938599000016748942914098,73023621043493693710616048034559118789,Bryan Lopes,Lopes,16,Mulato,Não-binário,PI,bryanlopes@yahoo.com.br,Setor da Conceição,Costela da Praia
+203397392312417832748034580463569298844,73023621043493693710616048034559118789,Dr. Danilo das Neves,Neves,16,Mulato,Feminino,PR,drdanilodasneves@live.com.br,Ladeira Laura Peixoto,Mendes da Prata
+153165623473578784419565671363707769845,150960631607822148473208702186217417186,Eduarda Moreira,Moreira,17,Negro,Feminino,PE,eduardamoreira@gmail.com,Alameda da Rocha,Aragão Paulista
+224972164056049494849576387435097947556,332968233551916963987068204105993647469,Lorena Monteiro,Monteiro,23,Cafuzo,Feminino,SP,lorenamonteiro@outlook.com.br,Núcleo Rafael Azevedo,Campos das Flores
+2858137860958057118059326257541627736,332968233551916963987068204105993647469,Dr. Carlos Eduardo Gonçalves,Gonçalves,23,Branco,Não-binário,PI,drcarloseduardogoncalves@outlook.com.br,Lago Isadora Martins,da Mata
+277878953362438708154316130878863972408,332968233551916963987068204105993647469,Carlos Eduardo Souza,Souza,16,Negro,Não-binário,RJ,carloseduardosouza@live.com.br,Favela de da Rocha,Viana do Norte
+136056743673597028160933775966336343937,150960631607822148473208702186217417186,Benício Ribeiro,Ribeiro,14,Mulato,Feminino,PE,benicioribeiro@yahoo.com.br,Trevo Gabrielly Martins,Novaes
+308990532872362535515248774559012379352,73023621043493693710616048034559118789,Bianca Teixeira,Teixeira,26,Cafuzo,Masculino,PR,biancateixeira@instituicao.com.br,Travessa Maria Julia Novaes,Nascimento
+109928980626705656029908569891669111231,150960631607822148473208702186217417186,Maria Vitória Nascimento,Nascimento,19,Mulato,Feminino,CE,mariavitorianascimento@yahoo.com.br,Jardim da Mota,Novaes Paulista
+110458922042477002974832362116761505940,332968233551916963987068204105993647469,Kaique Rezende,Rezende,24,Cafuzo,Masculino,CE,kaiquerezende@live.com.br,Loteamento Mendes,Cardoso da Praia
+19973569061490981045273395476066445043,150960631607822148473208702186217417186,João Felipe da Rosa,Rosa,19,Mulato,Feminino,MA,joaofelipedarosa@gmail.com,Ladeira Diogo Fogaça,Melo
+124911148618448201430954905240016375652,73023621043493693710616048034559118789,Sr. Eduardo Jesus,Jesus,19,Indígena,Não-binário,MG,sreduardojesus@hotmail.com.br,Vale de Moreira,Moura
+216418887457433142228353496496124089143,73023621043493693710616048034559118789,Bianca da Costa,Costa,27,Pardo,Não-binário,SP,biancadacosta@instituicao.com.br,Fazenda Barros,Rodrigues
+2085768398612802602772067075143263817,332968233551916963987068204105993647469,Cauê da Conceição,Conceição,18,Cafuzo,Masculino,PE,cauedaconceicao@yahoo.com.br,Núcleo Costa,Ferreira de Duarte
+160474009754847450492954891833939752514,332968233551916963987068204105993647469,Lucca Cavalcanti,Cavalcanti,25,Caboclo,Feminino,BA,luccacavalcanti@hotmail.com,Vale de Souza,Costela de Barbosa
+30013883589275633225438618210608587805,73023621043493693710616048034559118789,Catarina Castro,Castro,25,Mulato,Não-binário,PR,catarinacastro@yahoo.com.br,Praia de Cardoso,Lima
+161288683241192983594126284035338831208,332968233551916963987068204105993647469,João Felipe Silva,Silva,19,Branco,Feminino,AM,joaofelipesilva@instituicao.com.br,Setor Esther da Paz,Rocha
+49719921200847442531273333748358831314,150960631607822148473208702186217417186,Juliana Teixeira,Teixeira,22,Mulato,Masculino,AM,julianateixeira@yahoo.com.br,Lagoa Cauê Caldeira,Cardoso dos Dourados
+126335519128883110726407497584129426530,73023621043493693710616048034559118789,Dr. Pedro Lucas Fernandes,Fernandes,22,Cafuzo,Não-binário,SC,drpedrolucasfernandes@gmail.com,Largo Correia,Araújo
+256682786979401021731277112221492116431,332968233551916963987068204105993647469,Mariane Nogueira,Nogueira,27,Caboclo,Não-binário,CE,marianenogueira@yahoo.com.br,Conjunto Camila Souza,Novaes dos Dourados
+318407236955399370891789546304061082962,332968233551916963987068204105993647469,Isaac Jesus,Jesus,20,Pardo,Não-binário,MG,isaacjesus@live.com.br,Lago Cavalcanti,Barbosa
+233206150983106979543953621720292235690,150960631607822148473208702186217417186,Emanuel Ribeiro,Ribeiro,20,Caboclo,Masculino,SC,emanuelribeiro@yahoo.com.br,Condomínio Santos,da Conceição do Amparo
+296109712913871383113373517692458539698,73023621043493693710616048034559118789,Cauã Pires,Pires,23,Pardo,Feminino,PR,cauapires@yahoo.com.br,Lagoa Luiz Henrique Novaes,Dias
+130998705880470237388469174348935675097,73023621043493693710616048034559118789,Agatha Souza,Souza,20,Branco,Feminino,SP,agathasouza@yahoo.com.br,Lagoa de Rocha,Viana de Moura
+22721676477164038713685489803892464070,150960631607822148473208702186217417186,Sr. Antônio Monteiro,Monteiro,15,Cafuzo,Masculino,RJ,srantoniomonteiro@live.com.br,Parque de Moraes,Silveira de Jesus
+97730525406293707560908298594616581224,332968233551916963987068204105993647469,Vicente Fogaça,Fogaça,21,Indígena,Feminino,SC,vicentefogaca@hotmail.com,Ladeira de Rocha,da Costa
+313838530759874613481080225696347721208,73023621043493693710616048034559118789,João Pedro Caldeira,Caldeira,24,Cafuzo,Masculino,PR,joaopedrocaldeira@hotmail.com.br,Largo de da Luz,da Conceição do Norte
+288278642299410191077057501874539775999,73023621043493693710616048034559118789,Luna Nunes,Nunes,20,Indígena,Não-binário,BA,lunanunes@gmail.com,Pátio de Campos,Moura
+244998008822071594012693758514478660966,150960631607822148473208702186217417186,Ana Beatriz Melo,Melo,23,Caboclo,Feminino,AM,anabeatrizmelo@bol.com.br,Praça de Costa,Teixeira
+205251093753707011197936852099861440349,73023621043493693710616048034559118789,Sra. Maria Julia da Luz,Luz,16,Mulato,Não-binário,AM,sramariajuliadaluz@bol.com.br,Morro Pedro Miguel Silveira,Carvalho
+180049572512649610183926833675609963035,73023621043493693710616048034559118789,Antônio Rodrigues,Rodrigues,27,Negro,Masculino,PR,antoniorodrigues@gmail.com,Ladeira Lara Ramos,das Neves
+69625871061594999727746385104140027221,332968233551916963987068204105993647469,Stephany Rocha,Rocha,19,Indígena,Masculino,MA,stephanyrocha@instituicao.com.br,Via de Vieira,Oliveira de Pereira
+72834939415125623207191963359055294560,73023621043493693710616048034559118789,Alícia Gonçalves,Gonçalves,26,Negro,Masculino,RJ,aliciagoncalves@gmail.com,Esplanada Ana Sophia Peixoto,Costa
+170011771045813735719785888361656494454,332968233551916963987068204105993647469,Sra. Maria Fernanda da Cruz,Cruz,19,Mulato,Feminino,MG,sramariafernandadacruz@gmail.com,Trevo Jesus,Gomes
+225688229461814859605917665656882722429,332968233551916963987068204105993647469,Sra. Larissa da Costa,Costa,17,Pardo,Masculino,PE,sralarissadacosta@hotmail.com.br,Rodovia Isaac Lopes,Teixeira
+285133382293562070771595094848278542314,150960631607822148473208702186217417186,Guilherme Rezende,Rezende,25,Negro,Masculino,SC,guilhermerezende@bol.com.br,Campo João Gabriel Lima,Sales
+11865042870048083218170874863323305554,73023621043493693710616048034559118789,Joaquim Araújo,Araújo,25,Mulato,Feminino,PR,joaquimaraujo@instituicao.com.br,Esplanada de Moreira,Correia
+91293589269504516232928677540495444788,332968233551916963987068204105993647469,Valentina Gonçalves,Gonçalves,14,Negro,Feminino,RJ,valentinagoncalves@gmail.com,Largo Benício Gonçalves,Cunha
+286914243767629272306714419023571545555,73023621043493693710616048034559118789,João Felipe Farias,Farias,22,Indígena,Masculino,BA,joaofelipefarias@yahoo.com.br,Sítio Rebeca Nogueira,Pires Paulista
+303242879892168708219292603601569502736,150960631607822148473208702186217417186,Nathan Freitas,Freitas,16,Cafuzo,Feminino,PE,nathanfreitas@yahoo.com.br,Vereda Nunes,Peixoto da Serra
+277730540736674845439687097666226832771,332968233551916963987068204105993647469,Gabrielly Fogaça,Fogaça,18,Indígena,Masculino,BA,gabriellyfogaca@live.com.br,Núcleo de da Paz,Moraes de Goiás
+178792057959844110464503159021124598493,332968233551916963987068204105993647469,Renan Castro,Castro,27,Indígena,Feminino,PR,renancastro@live.com.br,Morro de Souza,Araújo
+48685724819769766092894116464894034263,332968233551916963987068204105993647469,Isis da Costa,Costa,27,Pardo,Não-binário,MA,isisdacosta@hotmail.com.br,Campo Luiz Felipe da Rocha,Castro Paulista
+158095881056720010186495463194232035595,150960631607822148473208702186217417186,Yago Cardoso,Cardoso,15,Branco,Masculino,MG,yagocardoso@hotmail.com,Lago Ribeiro,Martins
+260749238771650204759013598620313899724,332968233551916963987068204105993647469,João Moura,Moura,15,Pardo,Feminino,CE,joaomoura@gmail.com,Trevo Bryan Cavalcanti,Moreira de Jesus
+226159506254632604158321261959836959330,150960631607822148473208702186217417186,Leonardo Cardoso,Cardoso,19,Caboclo,Masculino,SP,leonardocardoso@yahoo.com.br,Condomínio Murilo Pinto,Freitas das Pedras
+262168800169287166831161389462723198541,332968233551916963987068204105993647469,Lavínia da Cunha,Cunha,16,Negro,Feminino,BA,laviniadacunha@instituicao.com.br,Pátio Ana Clara Silva,Duarte
+199819263944210980868253157314522295,73023621043493693710616048034559118789,Carlos Eduardo da Mata,Mata,23,Mulato,Masculino,MA,carloseduardodamata@hotmail.com.br,Estação Vieira,Viana
+33635103644169026212425143746586162002,332968233551916963987068204105993647469,Alana Moura,Moura,25,Negro,Feminino,RJ,alanamoura@gmail.com,Núcleo Nogueira,Jesus do Norte
+14436447534145668934112725123804992231,73023621043493693710616048034559118789,Vinicius da Rosa,Rosa,22,Branco,Masculino,PI,viniciusdarosa@instituicao.com.br,Favela de Barbosa,Costa de Peixoto
+315674154497463896042614267637726038932,73023621043493693710616048034559118789,Gabriela Azevedo,Azevedo,14,Indígena,Masculino,BA,gabrielaazevedo@yahoo.com.br,Ladeira de Sales,Araújo
+183523195820224174939862630667561172908,150960631607822148473208702186217417186,Ana Vitória Almeida,Almeida,27,Branco,Feminino,RJ,anavitoriaalmeida@yahoo.com.br,Jardim de Lima,Caldeira de Campos
+9618997738030523148141365203504031116,73023621043493693710616048034559118789,Dr. Diego Dias,Dias,16,Mulato,Masculino,PI,drdiegodias@yahoo.com.br,Recanto Almeida,Cavalcanti de Martins
+139159522010826870270238670830309844982,73023621043493693710616048034559118789,Helena Dias,Dias,21,Mulato,Masculino,SP,helenadias@hotmail.com,Condomínio Gustavo Henrique Costela,Silva de Lopes
+243213604875798753236172999980955879285,150960631607822148473208702186217417186,Sr. Guilherme Monteiro,Monteiro,17,Pardo,Masculino,BA,srguilhermemonteiro@instituicao.com.br,Vila Barros,Ramos
+297798655092694997002486521084648652551,73023621043493693710616048034559118789,Maria Mendes,Mendes,14,Pardo,Masculino,PR,mariamendes@yahoo.com.br,Quadra da Mota,Costela
+79151256827701679353538185948827155289,150960631607822148473208702186217417186,Ana Julia da Paz,Paz,25,Negro,Masculino,SC,anajuliadapaz@hotmail.com.br,Loteamento Nogueira,Lopes Grande
+145559820892925730364601947694421892446,332968233551916963987068204105993647469,Enrico da Cunha,Cunha,21,Negro,Feminino,MG,enricodacunha@outlook.com.br,Distrito Guilherme Costa,da Luz
+116738953454381016192175391346623376282,332968233551916963987068204105993647469,Sra. Sabrina Monteiro,Monteiro,14,Caboclo,Feminino,MA,srasabrinamonteiro@instituicao.com.br,Vale de Campos,Pires
+44766393277446937211575848509409540723,150960631607822148473208702186217417186,Enzo da Luz,Luz,22,Pardo,Masculino,SP,enzodaluz@live.com.br,Sítio da Costa,Ribeiro de Castro
+61193611108354350192277805638918976282,150960631607822148473208702186217417186,Emilly Carvalho,Carvalho,16,Cafuzo,Masculino,SC,emillycarvalho@bol.com.br,Largo Agatha Ferreira,Martins
+277866216511695268966827088831492358919,150960631607822148473208702186217417186,Emanuella Campos,Campos,24,Caboclo,Masculino,PE,emanuellacampos@live.com.br,Trecho de Nunes,Freitas
+186888839734288347372178383924094075494,150960631607822148473208702186217417186,Maria Fernanda Rocha,Rocha,14,Cafuzo,Feminino,MA,mariafernandarocha@yahoo.com.br,Alameda Monteiro,Ferreira do Campo
+214425297567220034401143019665691131074,150960631607822148473208702186217417186,Maria Luiza Cunha,Cunha,22,Pardo,Masculino,PE,marialuizacunha@gmail.com,Ladeira Pedro Henrique Cunha,Costa
+230605523155402551743222342404023451762,150960631607822148473208702186217417186,Mirella Cardoso,Cardoso,16,Negro,Feminino,RJ,mirellacardoso@bol.com.br,Trevo de da Mota,da Mota
+55290070870276064590899382035914196846,332968233551916963987068204105993647469,Vitória Correia,Correia,15,Negro,Não-binário,CE,vitoriacorreia@gmail.com,Largo Azevedo,das Neves de Melo
+115509665476436787893828026431876494750,150960631607822148473208702186217417186,Bryan das Neves,Neves,20,Mulato,Não-binário,MG,bryandasneves@hotmail.com,Jardim de da Rocha,da Paz Alegre
+113117579931051552803005543278494122039,73023621043493693710616048034559118789,Antônio Gonçalves,Gonçalves,20,Cafuzo,Feminino,MA,antoniogoncalves@yahoo.com.br,Jardim Vinicius da Mota,Moraes das Flores
+332097404516420457010863894508786009565,332968233551916963987068204105993647469,Maitê Mendes,Mendes,25,Negro,Masculino,AM,maitemendes@live.com.br,Largo Gabriela Carvalho,Nogueira de Goiás
+187806703375292580031255234130539480716,150960631607822148473208702186217417186,Luiz Fernando Nascimento,Nascimento,27,Caboclo,Feminino,BA,luizfernandonascimento@yahoo.com.br,Passarela Vitor Gabriel Vieira,Rodrigues
+34708355543257854050848306864700512909,150960631607822148473208702186217417186,Dr. Pedro Lucas Caldeira,Caldeira,26,Pardo,Feminino,AM,drpedrolucascaldeira@hotmail.com.br,Sítio de Oliveira,da Paz
+53797477412729562114021403545585278888,73023621043493693710616048034559118789,Dr. Nathan da Cruz,Cruz,16,Mulato,Masculino,SP,drnathandacruz@yahoo.com.br,Colônia de da Cruz,Moreira
+15007644457793004277492089058679792583,332968233551916963987068204105993647469,Luiza Gomes,Gomes,14,Mulato,Feminino,MG,luizagomes@outlook.com.br,Praia Santos,das Neves de Goiás
+69674413783892468335107984887009664617,332968233551916963987068204105993647469,Murilo Cunha,Cunha,22,Indígena,Masculino,AM,murilocunha@outlook.com.br,Parque de Alves,da Rosa
+229086042608870202390298934573409195444,332968233551916963987068204105993647469,Enzo Gabriel Gonçalves,Gonçalves,15,Caboclo,Masculino,BA,enzogabrielgoncalves@live.com.br,Passarela Henrique Ferreira,Nascimento
+46267054043820264406640375658005407111,73023621043493693710616048034559118789,Sr. João Almeida,Almeida,22,Mulato,Masculino,PR,srjoaoalmeida@live.com.br,Trevo Nogueira,Duarte
+179339527642136709581943291822212661551,332968233551916963987068204105993647469,Helena Freitas,Freitas,19,Mulato,Masculino,MA,helenafreitas@instituicao.com.br,Vila de Gonçalves,Viana de Duarte
+139551163604235457453078698153734983367,73023621043493693710616048034559118789,Bryan Caldeira,Caldeira,19,Caboclo,Feminino,AM,bryancaldeira@outlook.com.br,Chácara de Viana,Fernandes de da Mata
+20755332792651340098118133189792436247,332968233551916963987068204105993647469,Pedro Miguel Cardoso,Cardoso,14,Branco,Feminino,MA,pedromiguelcardoso@yahoo.com.br,Rodovia João Miguel Gonçalves,Gomes
+139727353048693294517395847258570989939,73023621043493693710616048034559118789,Eduardo Jesus,Jesus,20,Cafuzo,Masculino,BA,eduardojesus@gmail.com,Conjunto Pinto,da Luz
+113182161299352845836311389901429439506,332968233551916963987068204105993647469,Sr. Anthony Moraes,Moraes,20,Pardo,Masculino,SP,sranthonymoraes@yahoo.com.br,Rua de Rezende,Dias de Viana
+3988373053043203985600369256471666746,332968233551916963987068204105993647469,Rafael Nascimento,Nascimento,24,Mulato,Não-binário,RJ,rafaelnascimento@gmail.com,Chácara Nina Correia,Nogueira
+289052325593153973684377223828930650420,332968233551916963987068204105993647469,Heitor da Rocha,Rocha,17,Cafuzo,Masculino,MG,heitordarocha@outlook.com.br,Esplanada Cunha,Santos
+27459965821337648663390625150244350274,332968233551916963987068204105993647469,Luana Rezende,Rezende,25,Indígena,Não-binário,PI,luanarezende@gmail.com,Vila de Rocha,Gonçalves das Flores
+111285454425777042594920886623183350395,150960631607822148473208702186217417186,Ana Lívia Alves,Alves,23,Negro,Feminino,CE,analiviaalves@hotmail.com.br,Sítio Luna Silveira,Rodrigues do Norte
+158773744813973002666485649611279558376,73023621043493693710616048034559118789,Heitor Freitas,Freitas,24,Pardo,Masculino,MG,heitorfreitas@outlook.com.br,Ladeira Campos,Gomes Alegre
+12194859068825957973039301165536263322,73023621043493693710616048034559118789,Isaac da Costa,Costa,19,Indígena,Masculino,BA,isaacdacosta@gmail.com,Esplanada Sofia Moura,da Rosa de Goiás
+321682834754356815619018598281152371950,73023621043493693710616048034559118789,Vitor Gabriel Cunha,Cunha,15,Negro,Feminino,SC,vitorgabrielcunha@yahoo.com.br,Feira Costa,Nunes
+119277579386106920952983421597937577804,332968233551916963987068204105993647469,Sra. Ana Carolina Moura,Moura,22,Negro,Não-binário,CE,sraanacarolinamoura@live.com.br,Colônia Melo,Costela
+313077945204318381375397462888700188365,332968233551916963987068204105993647469,Cauã Cavalcanti,Cavalcanti,19,Branco,Masculino,PI,cauacavalcanti@bol.com.br,Área Moreira,Almeida de Fogaça
+246544766189376285964968852581366090467,150960631607822148473208702186217417186,João Felipe Novaes,Novaes,19,Mulato,Masculino,BA,joaofelipenovaes@live.com.br,Setor Caldeira,Lima do Sul
+93885485717826553356809468077712990650,150960631607822148473208702186217417186,Maria Vitória da Costa,Costa,21,Indígena,Feminino,BA,mariavitoriadacosta@instituicao.com.br,Campo de da Mata,Moreira de Goiás
+62950094184348656079438524759612570998,73023621043493693710616048034559118789,Dra. Daniela Porto,Porto,22,Caboclo,Não-binário,SP,dradanielaporto@yahoo.com.br,Residencial Pereira,Cardoso
+9276750349496816635252414900666793402,150960631607822148473208702186217417186,João Pires,Pires,17,Indígena,Feminino,SP,joaopires@instituicao.com.br,Vale da Cunha,Silveira
+245882724333112516458294731791558311262,73023621043493693710616048034559118789,Davi Luiz da Rosa,Rosa,25,Branco,Não-binário,SC,daviluizdarosa@bol.com.br,Vereda Emanuelly Castro,Azevedo
+84945989540732625332942798989476579510,73023621043493693710616048034559118789,Maysa da Mata,Mata,19,Pardo,Feminino,RJ,maysadamata@hotmail.com.br,Rua de Jesus,Silveira das Flores
+97124333987444582090369149333905968855,150960631607822148473208702186217417186,Sr. Davi Lucca Freitas,Freitas,27,Branco,Masculino,PI,srdaviluccafreitas@live.com.br,Área Costa,Nascimento de Freitas
+330223888036509432520022487167906774392,332968233551916963987068204105993647469,Thales Oliveira,Oliveira,22,Mulato,Masculino,BA,thalesoliveira@hotmail.com,Aeroporto Sophia da Cruz,Viana
+232717285516804641067079301126749212873,150960631607822148473208702186217417186,Isis Gomes,Gomes,27,Caboclo,Feminino,SP,isisgomes@yahoo.com.br,Ladeira de Cardoso,Rocha de Barbosa
+42696433515674557129733562835812420117,73023621043493693710616048034559118789,Emanuella Aragão,Aragão,22,Caboclo,Feminino,MG,emanuellaaragao@hotmail.com.br,Ladeira de Mendes,Melo
+129868752842126924320515000405413398323,332968233551916963987068204105993647469,André Novaes,Novaes,23,Branco,Não-binário,PR,andrenovaes@hotmail.com,Morro Caroline Ribeiro,Moraes
+121749148400796452734681254590729972056,332968233551916963987068204105993647469,Maitê da Rosa,Rosa,24,Branco,Não-binário,BA,maitedarosa@yahoo.com.br,Praia Theo Novaes,Cardoso
+8311574315376656347286639769340619322,332968233551916963987068204105993647469,Joaquim Fernandes,Fernandes,18,Mulato,Feminino,AM,joaquimfernandes@hotmail.com.br,Alameda Erick Nunes,Rocha Grande
+139299911029555851443202374244778927504,332968233551916963987068204105993647469,Eduarda Rocha,Rocha,16,Indígena,Não-binário,RJ,eduardarocha@gmail.com,Condomínio Igor Nunes,Lopes dos Dourados
+48664075837207519039287346596413815559,73023621043493693710616048034559118789,Rebeca das Neves,Neves,14,Caboclo,Masculino,MA,rebecadasneves@live.com.br,Trecho de Peixoto,Campos da Mata
+280464938251031430941884961616796966848,150960631607822148473208702186217417186,Ana Martins,Martins,14,Mulato,Não-binário,MG,anamartins@hotmail.com,Estrada Cavalcanti,Caldeira Verde
+131443962772962239520698145474391714278,73023621043493693710616048034559118789,Mariana Barbosa,Barbosa,22,Branco,Feminino,AM,marianabarbosa@hotmail.com.br,Esplanada Henrique Jesus,Fernandes
+221236692357956613546083757314532314139,73023621043493693710616048034559118789,Emanuelly Pinto,Pinto,20,Cafuzo,Masculino,RJ,emanuellypinto@hotmail.com.br,Setor da Rosa,Jesus de Lima
+46025377740415378177094018091552949320,73023621043493693710616048034559118789,Enzo Gabriel Freitas,Freitas,14,Negro,Não-binário,PE,enzogabrielfreitas@hotmail.com,Parque Daniel Fernandes,Jesus de Moraes
+289632489344067836863724689943647879401,73023621043493693710616048034559118789,Ryan Vieira,Vieira,18,Branco,Masculino,SP,ryanvieira@instituicao.com.br,Campo Dias,Cunha da Praia
+309636068969082622607948006251258413164,150960631607822148473208702186217417186,Bryan Costela,Costela,20,Indígena,Não-binário,MG,bryancostela@gmail.com,Distrito Heitor da Luz,Aragão de Novaes
+126530443922315254879346296967659471108,332968233551916963987068204105993647469,Kaique Rodrigues,Rodrigues,18,Caboclo,Não-binário,PE,kaiquerodrigues@hotmail.com.br,Loteamento Luiz Gustavo Farias,Moreira Paulista
+175537432335645973619284533325641755877,73023621043493693710616048034559118789,Thomas Rocha,Rocha,14,Negro,Não-binário,MG,thomasrocha@bol.com.br,Conjunto da Cruz,Nogueira das Flores
+253125134403955367411848592921675989688,150960631607822148473208702186217417186,Emanuel Monteiro,Monteiro,22,Mulato,Não-binário,PR,emanuelmonteiro@gmail.com,Pátio Clara Duarte,Campos do Amparo
+108550901919719616220227925921341682612,332968233551916963987068204105993647469,Kamilly Carvalho,Carvalho,19,Caboclo,Feminino,PI,kamillycarvalho@hotmail.com,Viela Pires,Fernandes
+44080817277168426840808404627413518741,73023621043493693710616048034559118789,Kamilly Lopes,Lopes,18,Indígena,Feminino,MA,kamillylopes@hotmail.com,Sítio Cavalcanti,Barros
+41892966111991393661430666297244267142,150960631607822148473208702186217417186,Dr. João Gonçalves,Gonçalves,20,Cafuzo,Não-binário,BA,drjoaogoncalves@outlook.com.br,Alameda Giovanna Nogueira,Nascimento
+177010319411870677116663088371086090250,332968233551916963987068204105993647469,Maysa Caldeira,Caldeira,14,Caboclo,Não-binário,MA,maysacaldeira@hotmail.com.br,Favela de Rezende,Silveira
+320798474920826443478966279966392830573,332968233551916963987068204105993647469,Esther da Mata,Mata,26,Cafuzo,Não-binário,MG,estherdamata@outlook.com.br,Travessa Farias,Cunha
+289254562669326111698702381755255478946,150960631607822148473208702186217417186,Rafael Teixeira,Teixeira,22,Caboclo,Feminino,MA,rafaelteixeira@live.com.br,Feira de Nunes,Silva
+157059325522230839275349290662209000699,73023621043493693710616048034559118789,Gabriela Vieira,Vieira,19,Pardo,Feminino,MG,gabrielavieira@yahoo.com.br,Fazenda Fernandes,Araújo do Galho
+282163728219774703575687785415203297421,150960631607822148473208702186217417186,Lara Nascimento,Nascimento,25,Caboclo,Feminino,PR,laranascimento@bol.com.br,Alameda de Araújo,Pires
+241335248467041175968395960186611275566,150960631607822148473208702186217417186,Clara Lima,Lima,20,Mulato,Feminino,RJ,claralima@outlook.com.br,Recanto Renan Vieira,Porto Grande
+289402987718682695830743399879357687133,150960631607822148473208702186217417186,Lucca da Cruz,Cruz,20,Pardo,Masculino,MA,luccadacruz@yahoo.com.br,Ladeira Santos,Vieira Alegre
+276473358375310772589982513135421978203,150960631607822148473208702186217417186,Ian da Costa,Costa,15,Indígena,Masculino,BA,iandacosta@yahoo.com.br,Loteamento Viana,Fogaça de da Costa
+150007890509127147971415554622673181488,73023621043493693710616048034559118789,Bryan Cardoso,Cardoso,25,Negro,Feminino,MA,bryancardoso@outlook.com.br,Favela de da Costa,Nogueira
+56071689889474911003212237117681189598,150960631607822148473208702186217417186,Henrique Silva,Silva,27,Indígena,Não-binário,CE,henriquesilva@instituicao.com.br,Vereda Joaquim da Conceição,da Costa da Praia
+141966606845221628394300014055391087887,73023621043493693710616048034559118789,Davi Luiz Oliveira,Oliveira,25,Indígena,Masculino,SC,daviluizoliveira@hotmail.com,Chácara Ferreira,Jesus
+146989299826342086108885321483421777643,150960631607822148473208702186217417186,Emanuelly Campos,Campos,26,Negro,Feminino,SP,emanuellycampos@gmail.com,Jardim Lima,Silva das Pedras
+231678810303044804456416779435953757039,332968233551916963987068204105993647469,Rebeca Rezende,Rezende,19,Pardo,Masculino,PR,rebecarezende@hotmail.com.br,Trevo Yasmin Melo,Martins Verde
+255739512269157539832241322174215727811,150960631607822148473208702186217417186,Rafaela Fernandes,Fernandes,24,Branco,Não-binário,PI,rafaelafernandes@live.com.br,Lagoa Martins,Farias da Mata
+92243098400253989632203287230845788544,150960631607822148473208702186217417186,Ana Carolina Melo,Melo,14,Mulato,Masculino,MG,anacarolinamelo@hotmail.com,Conjunto Paulo Porto,Cavalcanti
+188705662028471041739879273193975737179,73023621043493693710616048034559118789,Lucas da Mota,Mota,24,Caboclo,Não-binário,PE,lucasdamota@yahoo.com.br,Estrada Isabelly Rocha,Aragão
+302955861678813477196357315421205346009,332968233551916963987068204105993647469,Esther Costela,Costela,24,Indígena,Não-binário,PR,esthercostela@instituicao.com.br,Rodovia Arthur Araújo,Monteiro
+66126900676388517165569803550485320562,73023621043493693710616048034559118789,Pedro Henrique Oliveira,Oliveira,23,Branco,Não-binário,AM,pedrohenriqueoliveira@bol.com.br,Fazenda de Gonçalves,da Mota das Pedras
+259606635785788526201173043629597374780,150960631607822148473208702186217417186,Raquel Santos,Santos,14,Caboclo,Masculino,MA,raquelsantos@gmail.com,Loteamento Daniel da Rosa,Teixeira do Norte
+140830308107881824222702882504796356402,332968233551916963987068204105993647469,Laís Almeida,Almeida,21,Pardo,Não-binário,RJ,laisalmeida@yahoo.com.br,Trecho de Peixoto,Fogaça do Sul
+60419095085251871171979545838094309774,150960631607822148473208702186217417186,Amanda Gomes,Gomes,17,Caboclo,Não-binário,MA,amandagomes@instituicao.com.br,Área Isaac Carvalho,Almeida
+205462100543803693447208336052564825725,332968233551916963987068204105993647469,Maria Vitória Barbosa,Barbosa,15,Pardo,Não-binário,PE,mariavitoriabarbosa@hotmail.com,Praça Heitor Duarte,Pires
+83462027109132073881841110646150267938,332968233551916963987068204105993647469,Gustavo Henrique Santos,Santos,17,Branco,Masculino,SP,gustavohenriquesantos@gmail.com,Lagoa de Nascimento,Viana do Oeste
+62274971652670367651642390990576127830,73023621043493693710616048034559118789,Dra. Fernanda Pereira,Pereira,23,Caboclo,Não-binário,RJ,drafernandapereira@yahoo.com.br,Praia Martins,Gomes
+329609017744136109653351314047362038945,150960631607822148473208702186217417186,Isadora da Luz,Luz,17,Indígena,Não-binário,MA,isadoradaluz@hotmail.com,Travessa Campos,da Rosa do Sul
+107651530589815102755155472278300396899,332968233551916963987068204105993647469,Rafaela Nogueira,Nogueira,26,Branco,Não-binário,PE,rafaelanogueira@outlook.com.br,Sítio da Cunha,da Mota do Oeste
+90379141576432526860310450693269464082,73023621043493693710616048034559118789,Enrico Lima,Lima,16,Caboclo,Não-binário,MG,enricolima@gmail.com,Loteamento de Moraes,Ramos do Campo
+312955122268110444448742697833781932339,150960631607822148473208702186217417186,Thiago da Luz,Luz,23,Cafuzo,Não-binário,BA,thiagodaluz@outlook.com.br,Feira Moraes,Ribeiro
+41625568606018254005441253499416415349,73023621043493693710616048034559118789,Sra. Camila Aragão,Aragão,24,Pardo,Masculino,AM,sracamilaaragao@instituicao.com.br,Estação de Moreira,Gomes das Flores
+260476126934124473783416424045213563130,150960631607822148473208702186217417186,Isadora Campos,Campos,18,Negro,Masculino,PI,isadoracampos@live.com.br,Colônia de Souza,Farias do Campo
+64535406248183912023133642929516634662,150960631607822148473208702186217417186,Julia Cavalcanti,Cavalcanti,14,Negro,Masculino,PR,juliacavalcanti@outlook.com.br,Chácara Arthur Peixoto,Nogueira
+91653504955867297197840667192779321650,73023621043493693710616048034559118789,Natália Carvalho,Carvalho,14,Pardo,Masculino,PR,nataliacarvalho@instituicao.com.br,Vereda Oliveira,Aragão dos Dourados
+72704673990958555593960180594850598537,332968233551916963987068204105993647469,Srta. Rebeca Moraes,Moraes,26,Indígena,Feminino,MA,srtarebecamoraes@yahoo.com.br,Ladeira Jesus,Martins de das Neves
+178261564691555768529960493289032714183,332968233551916963987068204105993647469,Sra. Ana Martins,Martins,26,Negro,Masculino,AM,sraanamartins@live.com.br,Ladeira Cauê Caldeira,Alves
+5788781912526191313242190315626914817,150960631607822148473208702186217417186,Lívia Cunha,Cunha,22,Pardo,Não-binário,SC,liviacunha@hotmail.com,Esplanada de da Rocha,Moraes Verde
+49024556906056120166245566335802199268,150960631607822148473208702186217417186,Sr. Renan Dias,Dias,23,Negro,Masculino,SP,srrenandias@hotmail.com.br,Distrito Pedro Lucas Costa,da Cruz do Sul
+126776191361368090376562502075191623504,150960631607822148473208702186217417186,André Freitas,Freitas,14,Caboclo,Não-binário,RJ,andrefreitas@bol.com.br,Sítio de Costela,Araújo de Minas
+219265725858944863764456661629979669968,332968233551916963987068204105993647469,Breno Nogueira,Nogueira,14,Cafuzo,Feminino,MG,brenonogueira@hotmail.com,Rodovia de Ribeiro,da Cruz
+315383943650056493409404283253648077551,73023621043493693710616048034559118789,Davi Gonçalves,Gonçalves,14,Mulato,Masculino,SC,davigoncalves@instituicao.com.br,Conjunto Costa,da Cruz de Pereira
+226534562228573393610922320410244155861,332968233551916963987068204105993647469,Renan da Luz,Luz,15,Cafuzo,Masculino,PI,renandaluz@bol.com.br,Fazenda de Pereira,Ferreira do Sul
+181423397652845554949758062192648592441,150960631607822148473208702186217417186,Kamilly Gomes,Gomes,19,Pardo,Masculino,PI,kamillygomes@gmail.com,Setor de Freitas,Sales
+56553224315872568635863764042859546178,332968233551916963987068204105993647469,João Guilherme Caldeira,Caldeira,19,Negro,Masculino,AM,joaoguilhermecaldeira@hotmail.com.br,Trecho de Fernandes,Nunes
+171004901336842315820786453222338739117,73023621043493693710616048034559118789,Gustavo Cardoso,Cardoso,14,Mulato,Feminino,RJ,gustavocardoso@yahoo.com.br,Ladeira Vitor Hugo Moreira,da Costa das Pedras
+81753137392819520613332816897530430418,73023621043493693710616048034559118789,Dr. Vitor Hugo Correia,Correia,27,Indígena,Feminino,PR,drvitorhugocorreia@bol.com.br,Avenida Almeida,Gonçalves
+37546527580211269277551023744436642360,73023621043493693710616048034559118789,Maria Alice Mendes,Mendes,16,Cafuzo,Feminino,PE,mariaalicemendes@gmail.com,Largo Maria Julia Fernandes,Moraes
+151338763107584472138927910413448513113,332968233551916963987068204105993647469,Dr. Vitor Gabriel Viana,Viana,25,Negro,Não-binário,BA,drvitorgabrielviana@outlook.com.br,Loteamento de Ferreira,Santos do Norte
+97946276245116205337964167996529737159,73023621043493693710616048034559118789,Dr. Luiz Otávio Novaes,Novaes,17,Negro,Não-binário,SC,drluizotavionovaes@gmail.com,Campo Alexia Santos,Teixeira
+15487722568324824875911702950902239614,150960631607822148473208702186217417186,Sr. Vitor Hugo Silveira,Silveira,20,Mulato,Masculino,RJ,srvitorhugosilveira@outlook.com.br,Vale Souza,Araújo
+215009728687732999175351753704779349008,332968233551916963987068204105993647469,Ana Júlia da Luz,Luz,27,Negro,Feminino,MA,anajuliadaluz@instituicao.com.br,Conjunto Pires,Gomes dos Dourados
+240366932859287948649880940531700267048,150960631607822148473208702186217417186,Levi Alves,Alves,21,Indígena,Não-binário,SP,levialves@outlook.com.br,Quadra de Freitas,Souza
+223455227183549300167236878222104013705,150960631607822148473208702186217417186,Kaique da Luz,Luz,15,Cafuzo,Masculino,AM,kaiquedaluz@yahoo.com.br,Campo Azevedo,Ramos de Silva
+249539494736523184585460893860503528403,73023621043493693710616048034559118789,Alice Rezende,Rezende,25,Pardo,Não-binário,BA,alicerezende@hotmail.com,Vila de Costa,Correia
+186003920021880292523089942482541931389,73023621043493693710616048034559118789,Dra. Pietra Nascimento,Nascimento,22,Indígena,Masculino,SP,drapietranascimento@yahoo.com.br,Avenida Luiz Miguel Caldeira,das Neves
+186625603756503639551786703213205873299,332968233551916963987068204105993647469,Isaac Costa,Costa,18,Pardo,Feminino,MG,isaaccosta@outlook.com.br,Morro Monteiro,Nogueira de da Mota
+91031803020287877167379506189092620281,73023621043493693710616048034559118789,Lavínia Pereira,Pereira,16,Indígena,Masculino,SP,laviniapereira@yahoo.com.br,Largo Nunes,Sales
+198379489490800509897173382172078818971,332968233551916963987068204105993647469,João Pedro Correia,Correia,23,Branco,Não-binário,PR,joaopedrocorreia@gmail.com,Quadra da Mota,da Mota de Pinto
+168122547245878693266589040489809742516,73023621043493693710616048034559118789,Sr. Luiz Gustavo Lima,Lima,19,Indígena,Não-binário,PR,srluizgustavolima@gmail.com,Alameda de Carvalho,da Cruz
+173299824808787570512396712494038460747,73023621043493693710616048034559118789,Emanuella Porto,Porto,26,Mulato,Não-binário,MG,emanuellaporto@gmail.com,Lago de Cardoso,Cavalcanti
+225468656420406871394499094306438133943,332968233551916963987068204105993647469,Cecília da Mata,Mata,26,Branco,Não-binário,AM,ceciliadamata@yahoo.com.br,Feira Costa,Lopes do Amparo
+189995194762788588377254088616116043895,73023621043493693710616048034559118789,Clarice Correia,Correia,24,Pardo,Masculino,RJ,claricecorreia@instituicao.com.br,Viaduto Correia,Castro Alegre
+276731795597819131005491764525960412830,332968233551916963987068204105993647469,Srta. Isabella Cavalcanti,Cavalcanti,23,Negro,Não-binário,BA,srtaisabellacavalcanti@hotmail.com,Rua de da Mata,das Neves
+154765352293764512252856721089465629503,150960631607822148473208702186217417186,Nathan Moraes,Moraes,21,Pardo,Não-binário,BA,nathanmoraes@outlook.com.br,Setor Porto,Ramos de Nascimento
+171568983974380082697939029134710251651,150960631607822148473208702186217417186,Giovanna Jesus,Jesus,15,Cafuzo,Feminino,CE,giovannajesus@hotmail.com,Rua Pereira,Barbosa
+137851891326598651139938905838147633017,73023621043493693710616048034559118789,Enzo Jesus,Jesus,17,Indígena,Masculino,PR,enzojesus@outlook.com.br,Estrada Peixoto,Aragão
+284354166206384172534644634925790540254,332968233551916963987068204105993647469,Thomas Lopes,Lopes,22,Negro,Não-binário,CE,thomaslopes@bol.com.br,Viela Otávio Costa,Cunha Alegre
+163062255031854354242148861095296825791,150960631607822148473208702186217417186,Sra. Clarice Vieira,Vieira,25,Pardo,Masculino,SC,sraclaricevieira@instituicao.com.br,Estação Isis Correia,da Paz de da Cruz
+150393492328084844032220844291707164228,150960631607822148473208702186217417186,Heitor Vieira,Vieira,14,Indígena,Não-binário,PI,heitorvieira@live.com.br,Viaduto Alana Rocha,da Cunha das Pedras
+210409978218881116672077566841515621211,150960631607822148473208702186217417186,Sra. Daniela Ferreira,Ferreira,27,Branco,Feminino,AM,sradanielaferreira@bol.com.br,Estação de Gonçalves,Aragão Verde
+298883939433538322819698560682009258438,150960631607822148473208702186217417186,Helena Farias,Farias,24,Branco,Feminino,RJ,helenafarias@hotmail.com.br,Vereda Marcos Vinicius Lima,Lopes
+68174970651521574772634514806730142968,150960631607822148473208702186217417186,João Lucas Silveira,Silveira,22,Mulato,Feminino,MA,joaolucassilveira@outlook.com.br,Aeroporto Ana Clara Moraes,Campos do Norte
+184278535276192099311568881287389646502,73023621043493693710616048034559118789,Murilo Cavalcanti,Cavalcanti,25,Branco,Masculino,SP,murilocavalcanti@live.com.br,Recanto Isabel da Cruz,da Luz
+22776219317233432974480146258618299309,73023621043493693710616048034559118789,Leandro Rodrigues,Rodrigues,19,Branco,Feminino,PE,leandrorodrigues@hotmail.com.br,Esplanada Beatriz Azevedo,Pinto de Minas
+228768447458092722519139447797945607086,150960631607822148473208702186217417186,Luiz Henrique Silveira,Silveira,16,Branco,Feminino,CE,luizhenriquesilveira@hotmail.com.br,Largo de Araújo,Dias de Rezende
+114682487962086914121700808628970428164,73023621043493693710616048034559118789,Dra. Agatha Mendes,Mendes,24,Indígena,Masculino,CE,draagathamendes@outlook.com.br,Parque Lara Cardoso,Almeida do Sul
+51659775095387482589629134547019104933,150960631607822148473208702186217417186,Nina Pires,Pires,26,Branco,Masculino,SP,ninapires@yahoo.com.br,Campo de Peixoto,da Mota
+284268364843149894642623335384376051482,73023621043493693710616048034559118789,Sr. Pietro Almeida,Almeida,16,Branco,Não-binário,SP,srpietroalmeida@gmail.com,Recanto Raquel Caldeira,Santos da Serra
+100132824828956558064734650953165175048,332968233551916963987068204105993647469,Joaquim Moura,Moura,15,Indígena,Masculino,SC,joaquimmoura@live.com.br,Vereda Ramos,Silva de Castro
+22382908781208093310389866878116616135,332968233551916963987068204105993647469,Isadora Ribeiro,Ribeiro,15,Caboclo,Feminino,BA,isadoraribeiro@instituicao.com.br,Residencial Silva,da Paz
+290783714641739962184049521395372453908,150960631607822148473208702186217417186,Bernardo Pinto,Pinto,23,Negro,Feminino,MG,bernardopinto@hotmail.com,Condomínio Helena Castro,da Mota
+77233277802633222882191042259926247976,73023621043493693710616048034559118789,Luigi Ribeiro,Ribeiro,16,Cafuzo,Não-binário,MG,luigiribeiro@gmail.com,Loteamento Lívia Azevedo,Cardoso de Goiás
+86786359951510871042103502283645639746,150960631607822148473208702186217417186,Pedro Miguel Teixeira,Teixeira,27,Negro,Masculino,AM,pedromiguelteixeira@yahoo.com.br,Recanto Arthur Lima,Pinto das Pedras
+313173211873570608283026814059248957174,332968233551916963987068204105993647469,Carlos Eduardo Martins,Martins,23,Mulato,Masculino,BA,carloseduardomartins@instituicao.com.br,Vale Letícia Caldeira,Silva do Norte
+328475082631301382500387828755783582496,73023621043493693710616048034559118789,Lorena Porto,Porto,18,Negro,Masculino,SP,lorenaporto@hotmail.com,Avenida Maria Sophia Nascimento,Lopes
+76342117138810487477007318600297071909,73023621043493693710616048034559118789,Sra. Marina Farias,Farias,18,Mulato,Feminino,BA,sramarinafarias@hotmail.com.br,Conjunto de Peixoto,da Cruz Paulista
+4076323495612814691455663526605672628,150960631607822148473208702186217417186,Igor da Rocha,Rocha,15,Branco,Masculino,PI,igordarocha@hotmail.com,Parque Ian Rodrigues,Ramos de Minas
+118698709023363351750005865906840857098,73023621043493693710616048034559118789,Pedro da Mota,Mota,27,Mulato,Não-binário,SP,pedrodamota@gmail.com,Trevo de Gonçalves,Cavalcanti
+62985410311308909467725412539386559425,73023621043493693710616048034559118789,Gabriel Nogueira,Nogueira,19,Indígena,Masculino,PE,gabrielnogueira@outlook.com.br,Fazenda da Mota,Cunha
+128282879999989988366986283094199866029,150960631607822148473208702186217417186,Maitê Silva,Silva,20,Cafuzo,Masculino,PI,maitesilva@yahoo.com.br,Ladeira Samuel Fogaça,Correia da Prata
+234604804083994089390849878720204192247,332968233551916963987068204105993647469,João Gabriel Peixoto,Peixoto,18,Indígena,Não-binário,MG,joaogabrielpeixoto@bol.com.br,Vale Vieira,Dias Grande
+113050512019044085886988560826709999130,73023621043493693710616048034559118789,Isabel Araújo,Araújo,14,Caboclo,Não-binário,SC,isabelaraujo@yahoo.com.br,Setor Correia,Ramos
+116773785549053855031545942132122691162,150960631607822148473208702186217417186,Joana Nascimento,Nascimento,21,Negro,Feminino,RJ,joananascimento@gmail.com,Estação Vitor da Luz,Farias do Galho
+185164252604291394771228687250433645238,150960631607822148473208702186217417186,Cecília Dias,Dias,24,Caboclo,Masculino,SP,ceciliadias@outlook.com.br,Aeroporto de Rezende,Araújo
+272121213331137330754060819050452903101,332968233551916963987068204105993647469,Matheus da Rosa,Rosa,21,Cafuzo,Masculino,PI,matheusdarosa@hotmail.com,Viaduto Noah da Costa,Azevedo
+229654866601252972592825498281225840984,332968233551916963987068204105993647469,Rebeca Pereira,Pereira,16,Cafuzo,Não-binário,SC,rebecapereira@yahoo.com.br,Fazenda Pinto,Rodrigues
+80587134143262991711332622707298018055,332968233551916963987068204105993647469,Sra. Lívia Freitas,Freitas,23,Branco,Feminino,BA,sraliviafreitas@yahoo.com.br,Vereda Nogueira,Silveira
+194824025511982416738677754741203848266,150960631607822148473208702186217417186,Erick Dias,Dias,16,Caboclo,Feminino,MA,erickdias@gmail.com,Favela Campos,Alves
+56578905317296770816502821720011417685,150960631607822148473208702186217417186,Natália Jesus,Jesus,22,Caboclo,Masculino,SC,nataliajesus@hotmail.com.br,Núcleo Porto,Cardoso do Amparo
+275357917100394712213347018849268474025,150960631607822148473208702186217417186,Rafaela Lopes,Lopes,14,Branco,Masculino,BA,rafaelalopes@gmail.com,Esplanada da Costa,das Neves dos Dourados
+71400152652469337454583015306198149475,150960631607822148473208702186217417186,Kamilly Correia,Correia,25,Cafuzo,Masculino,SP,kamillycorreia@yahoo.com.br,Largo de da Luz,Fernandes de Araújo
+255958624336877069248051978598786426237,332968233551916963987068204105993647469,Marcelo Costa,Costa,14,Pardo,Não-binário,MG,marcelocosta@yahoo.com.br,Estrada Luiz Henrique Araújo,da Mata
+91174757504432574090784955859126900153,73023621043493693710616048034559118789,Miguel da Paz,Paz,14,Caboclo,Masculino,BA,migueldapaz@bol.com.br,Sítio das Neves,Peixoto
+318619079365872622751857075516607394739,73023621043493693710616048034559118789,Ana Vitória Souza,Souza,25,Cafuzo,Masculino,SP,anavitoriasouza@yahoo.com.br,Passarela Peixoto,Ribeiro
+250777651014739084430495915157472821214,150960631607822148473208702186217417186,Clarice Moraes,Moraes,24,Caboclo,Não-binário,BA,claricemoraes@instituicao.com.br,Vale Fernandes,Peixoto
+263643901236246447238326161222597604807,150960631607822148473208702186217417186,Enzo Gabriel Novaes,Novaes,25,Cafuzo,Feminino,PE,enzogabrielnovaes@hotmail.com.br,Chácara Farias,Ramos
+58933579296935177575329329912786100482,73023621043493693710616048034559118789,Davi Lucca da Costa,Costa,20,Caboclo,Masculino,PR,daviluccadacosta@gmail.com,Viela de Fogaça,Mendes do Sul
+120328154264357323149480994275494875243,73023621043493693710616048034559118789,Samuel Lima,Lima,18,Negro,Não-binário,SP,samuellima@yahoo.com.br,Área de Freitas,Pinto Verde
+265844930424298527997170509626831443660,332968233551916963987068204105993647469,Maria Sophia Melo,Melo,20,Mulato,Feminino,MG,mariasophiamelo@hotmail.com.br,Praia Moraes,Fernandes de Teixeira
+271491976568541369211969279951339082228,150960631607822148473208702186217417186,Isabel Alves,Alves,22,Mulato,Masculino,SP,isabelalves@gmail.com,Vereda Vitória Pires,Teixeira
+338553831365312046870387265410820925818,332968233551916963987068204105993647469,Maria Correia,Correia,22,Branco,Não-binário,PI,mariacorreia@yahoo.com.br,Lagoa de Martins,Porto
+289632919069108006499245238719807776245,332968233551916963987068204105993647469,Dr. Pedro Cavalcanti,Cavalcanti,16,Negro,Não-binário,PR,drpedrocavalcanti@outlook.com.br,Feira de Santos,Almeida
+293989105415935662322228728881685748686,150960631607822148473208702186217417186,Theo da Paz,Paz,26,Mulato,Masculino,BA,theodapaz@instituicao.com.br,Estação Ana Lívia Alves,Ramos
+90833171653318466381107424566431143440,73023621043493693710616048034559118789,Alexandre Rezende,Rezende,20,Negro,Não-binário,MG,alexandrerezende@hotmail.com,Praça de Mendes,Ferreira
+141248207264902739402703829839760426973,73023621043493693710616048034559118789,Isaac da Mata,Mata,16,Cafuzo,Masculino,CE,isaacdamata@yahoo.com.br,Ladeira Elisa Teixeira,Araújo Paulista
+255301351610339235400179419978280380539,150960631607822148473208702186217417186,Lorena Cardoso,Cardoso,23,Cafuzo,Feminino,MG,lorenacardoso@yahoo.com.br,Lago Rebeca Barros,Monteiro
+322916409260995324350193329529316064391,73023621043493693710616048034559118789,Helena Duarte,Duarte,14,Negro,Não-binário,AM,helenaduarte@hotmail.com,Feira de Silva,Castro
+258813854139728142074351063671082027401,332968233551916963987068204105993647469,Alícia Jesus,Jesus,26,Mulato,Não-binário,SP,aliciajesus@outlook.com.br,Parque Moreira,Freitas da Mata
+44735929132130212700771749752885973407,73023621043493693710616048034559118789,Raquel Carvalho,Carvalho,18,Indígena,Não-binário,PR,raquelcarvalho@bol.com.br,Colônia de Ribeiro,Cardoso
+134290406709080293274697609389766572312,150960631607822148473208702186217417186,Raquel Cardoso,Cardoso,15,Mulato,Masculino,MA,raquelcardoso@bol.com.br,Pátio Lucas Cardoso,da Conceição da Serra
+154121628534166784109329047985422643665,332968233551916963987068204105993647469,Maitê da Costa,Costa,19,Caboclo,Não-binário,BA,maitedacosta@hotmail.com.br,Residencial Bernardo Campos,Alves do Oeste
+83568812012267532126614038807785101125,332968233551916963987068204105993647469,Benjamin Gonçalves,Gonçalves,27,Cafuzo,Masculino,MG,benjamingoncalves@yahoo.com.br,Lago Kamilly Gomes,Cardoso de Minas
+311450090628462123687764393970710818513,150960631607822148473208702186217417186,Maria Eduarda Freitas,Freitas,19,Mulato,Não-binário,RJ,mariaeduardafreitas@gmail.com,Quadra Viana,da Paz
+320015585832498715857309180723968641734,332968233551916963987068204105993647469,Clara Moraes,Moraes,18,Mulato,Masculino,SC,claramoraes@hotmail.com,Largo de Farias,Moraes
+9221287985704901084889868182559751452,332968233551916963987068204105993647469,Maria Vitória Fernandes,Fernandes,18,Caboclo,Feminino,MG,mariavitoriafernandes@outlook.com.br,Viaduto Camila Cavalcanti,Monteiro de Jesus
+221745494198551049716644869239967151150,332968233551916963987068204105993647469,Joaquim Gomes,Gomes,25,Indígena,Feminino,PE,joaquimgomes@hotmail.com,Aeroporto de Santos,Silva
+37459077725442868384136266180544952818,150960631607822148473208702186217417186,Guilherme da Paz,Paz,19,Pardo,Feminino,PR,guilhermedapaz@hotmail.com,Rua Matheus da Paz,Pereira de Goiás
+114802768833456588765477029919061498737,332968233551916963987068204105993647469,Laura Santos,Santos,20,Branco,Não-binário,RJ,laurasantos@hotmail.com.br,Morro de Lima,Castro
+218393562759018797478859116283577064990,332968233551916963987068204105993647469,Luiz Henrique Cunha,Cunha,17,Branco,Não-binário,PE,luizhenriquecunha@outlook.com.br,Campo Monteiro,Lopes Verde
+338420282292665150002594946904094524261,73023621043493693710616048034559118789,Elisa Rocha,Rocha,16,Cafuzo,Não-binário,PR,elisarocha@bol.com.br,Jardim de da Mata,Vieira
+219809024169298130221640198549230953547,332968233551916963987068204105993647469,Calebe Azevedo,Azevedo,25,Caboclo,Feminino,SC,calebeazevedo@bol.com.br,Conjunto Natália Pinto,Fogaça
+178095126704536155018227233168310032553,332968233551916963987068204105993647469,Mariana Carvalho,Carvalho,19,Mulato,Masculino,PE,marianacarvalho@live.com.br,Trecho de Farias,da Conceição da Serra
+46627471884714547947034874028476709602,150960631607822148473208702186217417186,Clarice Cardoso,Cardoso,14,Indígena,Masculino,BA,claricecardoso@live.com.br,Chácara Bernardo Pereira,Lopes da Mata
+276145964352885369193545182496506286100,150960631607822148473208702186217417186,Luiz Miguel Sales,Sales,17,Branco,Feminino,MA,luizmiguelsales@bol.com.br,Via Lorena Fernandes,Silveira do Sul
+104712052802560857242043232145172133950,73023621043493693710616048034559118789,Evelyn Cunha,Cunha,15,Pardo,Feminino,PI,evelyncunha@bol.com.br,Conjunto da Paz,Vieira
+316280484825974612988169007280121915154,332968233551916963987068204105993647469,Caio Nogueira,Nogueira,23,Caboclo,Masculino,MG,caionogueira@outlook.com.br,Feira de Fogaça,da Mota
+185823963593997384340879208921847748273,73023621043493693710616048034559118789,Antônio Vieira,Vieira,24,Indígena,Feminino,CE,antoniovieira@hotmail.com.br,Aeroporto de Cavalcanti,Moura
+285364050105836004966909165614938811262,332968233551916963987068204105993647469,Gustavo Henrique da Mota,Mota,19,Negro,Masculino,SC,gustavohenriquedamota@bol.com.br,Alameda Rocha,Souza Alegre
+99054150103184001470920810539191945180,150960631607822148473208702186217417186,Marcos Vinicius Rezende,Rezende,22,Negro,Masculino,BA,marcosviniciusrezende@gmail.com,Rua Silva,Martins da Serra
+138617713220213654040228702303550735163,150960631607822148473208702186217417186,Sra. Amanda Lopes,Lopes,20,Caboclo,Feminino,MA,sraamandalopes@gmail.com,Trecho Alves,da Rocha de Mendes
+281676066002497918752329917286413482799,73023621043493693710616048034559118789,Dr. João Vitor da Costa,Costa,19,Mulato,Feminino,CE,drjoaovitordacosta@outlook.com.br,Ladeira Freitas,Mendes
+112615166186397473856862048465534331291,150960631607822148473208702186217417186,Luiz Otávio da Rocha,Rocha,27,Indígena,Feminino,AM,luizotaviodarocha@yahoo.com.br,Vila da Luz,Nascimento
+313956911757596217364092727366287841372,73023621043493693710616048034559118789,Theo Melo,Melo,21,Pardo,Não-binário,SP,theomelo@yahoo.com.br,Aeroporto Helena Cardoso,Rezende de Goiás
+53273968708726593816073562543712652860,150960631607822148473208702186217417186,Emanuella Rodrigues,Rodrigues,14,Pardo,Feminino,PI,emanuellarodrigues@hotmail.com,Rodovia de Novaes,Melo dos Dourados
+159309491947648192215380656410636145189,150960631607822148473208702186217417186,João Miguel Nogueira,Nogueira,23,Mulato,Não-binário,MA,joaomiguelnogueira@hotmail.com.br,Viela de Cardoso,da Rocha de Goiás
+218754216176567182102472372995731816395,150960631607822148473208702186217417186,Luiz Henrique Pereira,Pereira,24,Indígena,Feminino,SP,luizhenriquepereira@instituicao.com.br,Área Nascimento,Cunha
+232575773917037164608251212531447808695,150960631607822148473208702186217417186,Amanda Aragão,Aragão,26,Cafuzo,Não-binário,CE,amandaaragao@gmail.com,Praça de Nunes,Lima Paulista
+303711052641259969840813953480608310389,150960631607822148473208702186217417186,Srta. Sabrina Cunha,Cunha,14,Caboclo,Não-binário,RJ,srtasabrinacunha@live.com.br,Parque de Rocha,Pereira de Goiás
+212995062341263045179077888083204435263,332968233551916963987068204105993647469,Vitor Gabriel da Cruz,Cruz,16,Cafuzo,Não-binário,SP,vitorgabrieldacruz@instituicao.com.br,Chácara de Ribeiro,Pereira das Flores
+259104339347333968675630765218664078259,150960631607822148473208702186217417186,Sr. Rafael Nunes,Nunes,20,Indígena,Masculino,RJ,srrafaelnunes@yahoo.com.br,Rua Isadora Costela,Barbosa
+1582543206724862593531676269566211522,150960631607822148473208702186217417186,Gustavo Rocha,Rocha,17,Negro,Não-binário,PE,gustavorocha@live.com.br,Alameda Vieira,da Rosa de Pinto
+13738759995992731765183911547479904763,332968233551916963987068204105993647469,Agatha Teixeira,Teixeira,25,Indígena,Masculino,PI,agathateixeira@hotmail.com,Área Moura,Cardoso
+177536307997461598981537801691213853473,150960631607822148473208702186217417186,Ian da Cunha,Cunha,22,Branco,Feminino,MA,iandacunha@hotmail.com.br,Aeroporto Breno Cardoso,Barbosa dos Dourados
+125102462494978227737664582340995909130,332968233551916963987068204105993647469,Dr. Davi Luiz Ribeiro,Ribeiro,17,Indígena,Masculino,RJ,drdaviluizribeiro@live.com.br,Estação Valentina Rocha,Freitas de Nogueira
+174917958558533997777729683534807141731,332968233551916963987068204105993647469,Maria Cecília Nascimento,Nascimento,27,Branco,Masculino,RJ,mariacecilianascimento@outlook.com.br,Largo de Cunha,Dias
+129629066545692704780253630147859205595,332968233551916963987068204105993647469,Isabel Souza,Souza,15,Pardo,Masculino,SC,isabelsouza@outlook.com.br,Área de da Rocha,Souza de Nunes
+79990515637669827994306397700398241896,73023621043493693710616048034559118789,Sr. Luigi Monteiro,Monteiro,19,Mulato,Masculino,MG,srluigimonteiro@instituicao.com.br,Largo de da Mata,Peixoto
+319086524540329287253650644221525730446,73023621043493693710616048034559118789,Raul Nascimento,Nascimento,21,Cafuzo,Masculino,BA,raulnascimento@instituicao.com.br,Estação Cauê Dias,Rocha
+319357905413938244813942320762668793363,150960631607822148473208702186217417186,Luiz Felipe Peixoto,Peixoto,21,Negro,Não-binário,CE,luizfelipepeixoto@gmail.com,Fazenda Emanuelly Nascimento,Viana
+268337876885747191448864962784835692765,332968233551916963987068204105993647469,Maria Sophia Cardoso,Cardoso,24,Negro,Não-binário,PI,mariasophiacardoso@yahoo.com.br,Vale Nicolas Rodrigues,Nogueira de Sales
+172110271246875551957077178205097118861,150960631607822148473208702186217417186,Dra. Kamilly da Rocha,Rocha,21,Mulato,Masculino,BA,drakamillydarocha@hotmail.com,Travessa Luigi Nascimento,da Cruz
+297168946811798135693062540261262746207,332968233551916963987068204105993647469,Dr. Vitor Gabriel da Luz,Luz,18,Pardo,Feminino,PI,drvitorgabrieldaluz@live.com.br,Vale Yuri Costela,Cardoso
+318377845766384510915745371340494059677,150960631607822148473208702186217417186,Srta. Gabriela Lopes,Lopes,18,Caboclo,Não-binário,MG,srtagabrielalopes@live.com.br,Distrito de Cunha,Caldeira do Amparo
+4662140905797714791871440703925120505,73023621043493693710616048034559118789,Maria Eduarda Monteiro,Monteiro,23,Branco,Feminino,MA,mariaeduardamonteiro@hotmail.com,Condomínio Ribeiro,Sales
+131953344912472909652125938097499693808,73023621043493693710616048034559118789,Joana Gomes,Gomes,18,Indígena,Não-binário,PI,joanagomes@gmail.com,Travessa Fernandes,Cardoso
+339264188808688871290531871237012896800,150960631607822148473208702186217417186,Yuri Gomes,Gomes,15,Branco,Masculino,AM,yurigomes@gmail.com,Estação de Dias,Monteiro Verde
+183414704167039701243701794413923887367,150960631607822148473208702186217417186,Srta. Laís Oliveira,Oliveira,15,Pardo,Masculino,BA,srtalaisoliveira@gmail.com,Avenida de Carvalho,Nunes do Oeste
+1321791538316764265226147772559924393,332968233551916963987068204105993647469,Vinicius Pires,Pires,15,Branco,Não-binário,PI,viniciuspires@hotmail.com,Colônia Teixeira,Freitas
+213866800723819470537460311495935938924,332968233551916963987068204105993647469,Luiz Otávio Gomes,Gomes,16,Pardo,Não-binário,MG,luizotaviogomes@bol.com.br,Travessa Luna Correia,Santos
+183196013305172584932001807962619069865,73023621043493693710616048034559118789,Paulo Rezende,Rezende,23,Pardo,Feminino,PR,paulorezende@yahoo.com.br,Quadra Davi Lucas da Cruz,Azevedo
+160039814474874132966081426083436719347,73023621043493693710616048034559118789,Lucca Barros,Barros,16,Negro,Feminino,CE,luccabarros@bol.com.br,Recanto Maria Vitória Carvalho,Santos
+3312470562910607235078710834389530878,73023621043493693710616048034559118789,Srta. Brenda da Paz,Paz,26,Negro,Masculino,RJ,srtabrendadapaz@bol.com.br,Esplanada de das Neves,Pinto do Sul
+221001092533482369955262458637258947712,332968233551916963987068204105993647469,Ryan Freitas,Freitas,22,Indígena,Masculino,SP,ryanfreitas@instituicao.com.br,Jardim de Duarte,Souza
+291756641187656107448859490980249221132,332968233551916963987068204105993647469,Catarina Costa,Costa,25,Indígena,Não-binário,SC,catarinacosta@instituicao.com.br,Avenida Silveira,Rocha
+305507259095601582154802807964651775197,150960631607822148473208702186217417186,Laura Porto,Porto,26,Branco,Não-binário,SC,lauraporto@gmail.com,Esplanada de da Conceição,Aragão das Flores
+38941592711829036920525640012824576514,332968233551916963987068204105993647469,Dra. Elisa Gonçalves,Gonçalves,19,Indígena,Feminino,PR,draelisagoncalves@outlook.com.br,Trevo Gabriela Vieira,Alves das Pedras
+24746803329766178415446201405270476990,73023621043493693710616048034559118789,Isadora Novaes,Novaes,14,Mulato,Não-binário,PI,isadoranovaes@hotmail.com,Alameda Cauã Melo,da Mata do Norte
+204957000205161220825923419234075468125,150960631607822148473208702186217417186,Pietra Costa,Costa,27,Branco,Feminino,AM,pietracosta@bol.com.br,Vila Rocha,Nogueira
+69721252510567165174745951613364605022,332968233551916963987068204105993647469,Sr. Breno das Neves,Neves,21,Caboclo,Masculino,AM,srbrenodasneves@gmail.com,Largo Enrico Dias,Melo
+108464853440986103182577630834138839014,150960631607822148473208702186217417186,Kaique Rocha,Rocha,26,Cafuzo,Não-binário,CE,kaiquerocha@yahoo.com.br,Avenida Enrico da Mota,da Cruz
+177655446978610896140421873802711352372,150960631607822148473208702186217417186,João Pedro da Costa,Costa,26,Pardo,Masculino,MG,joaopedrodacosta@outlook.com.br,Praia Ramos,Farias da Serra
+173291797879757529471828196113872925167,150960631607822148473208702186217417186,Ana Júlia Nascimento,Nascimento,26,Negro,Feminino,SC,anajulianascimento@gmail.com,Quadra de da Rosa,Costela do Galho
+137740201346567745335639739302906499637,150960631607822148473208702186217417186,Emanuella da Rocha,Rocha,25,Branco,Não-binário,MA,emanuelladarocha@bol.com.br,Campo da Luz,Azevedo Paulista
+327064709293676569597828994893187279619,332968233551916963987068204105993647469,Arthur Novaes,Novaes,23,Negro,Não-binário,PR,arthurnovaes@hotmail.com.br,Parque Fogaça,Costa
+301857589121879346775117340078452954855,332968233551916963987068204105993647469,Julia da Luz,Luz,20,Pardo,Não-binário,RJ,juliadaluz@bol.com.br,Distrito Lívia Viana,Silveira
+141637556379189918730722460518406183243,73023621043493693710616048034559118789,Julia Pinto,Pinto,15,Cafuzo,Não-binário,MA,juliapinto@instituicao.com.br,Estação Eloah Dias,Fogaça das Pedras
+83842927365120349487012303314153776246,332968233551916963987068204105993647469,Sra. Ana Azevedo,Azevedo,23,Caboclo,Masculino,RJ,sraanaazevedo@yahoo.com.br,Largo da Mata,Cardoso do Amparo
+74392960864295382829926714168730996155,150960631607822148473208702186217417186,Gabrielly Jesus,Jesus,16,Mulato,Não-binário,PE,gabriellyjesus@instituicao.com.br,Setor Sarah Ramos,Alves
+236868492680591788668110243630116820392,73023621043493693710616048034559118789,Dr. Caio Nunes,Nunes,14,Negro,Feminino,SP,drcaionunes@hotmail.com.br,Núcleo de Fernandes,Cardoso
+317790015968043056490181728995791442882,150960631607822148473208702186217417186,Maria Julia Vieira,Vieira,16,Negro,Não-binário,CE,mariajuliavieira@outlook.com.br,Colônia de Alves,Castro das Pedras
+74645880643320814761722254510532622271,332968233551916963987068204105993647469,Evelyn Melo,Melo,23,Branco,Não-binário,AM,evelynmelo@yahoo.com.br,Esplanada Porto,Fernandes
+21944970818992212769586289207600323155,73023621043493693710616048034559118789,Beatriz Alves,Alves,25,Mulato,Feminino,SC,beatrizalves@hotmail.com.br,Fazenda Silveira,Farias do Oeste
