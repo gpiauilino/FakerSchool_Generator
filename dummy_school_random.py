@@ -164,6 +164,9 @@ def gerar_alunos():
                 fake_analyticsResponsavelNPS['nota'].append(np.random.choice(perfil_nps))
                 fake_analyticsResponsavelNPS['textDescricao'].append(surveys_textDescricao)
 
+
+
+               
             # Pagamentos
             dias_de_atraso = np.random.randint(0,3)    
             for _ in tqdm(range (numero_de_pagamentos), desc = "Pagando contas"):
@@ -275,7 +278,7 @@ if __name__ == '__main__':
     #Parametros da Escola
     nps = np.random.randint(1,5)
     #Quantidade de alunos por escola
-    qtAtlunos = 15
+    qtAtlunos = 1500
     #quantidade de professores no total
     qtProfessores = 35
     #quantiade média de salas por escola
