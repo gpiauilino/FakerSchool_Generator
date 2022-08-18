@@ -6,6 +6,7 @@
 #Padrão escola particular, com estrutura financeira básica.
 
 #-------------------------------
+from calendar import month
 import os
 import re
 from typing import Concatenate
@@ -19,6 +20,11 @@ from faker import Faker
 from tqdm import tqdm
 import unicodedata
 from string import ascii_letters
+
+from random import randrange
+from datetime import timedelta
+from datetime import datetime
+from dateutil.relativedelta import relativedelta
 
 #Definição de conteudo da lib para dados Brasileiros
 fake = Faker(['pt_BR'])
@@ -165,14 +171,35 @@ def gerar_alunos():
                 fake_analyticsResponsavelNPS['textDescricao'].append(surveys_textDescricao)
 
             # Pagamentos
-            dias_de_atraso = np.random.randint(0,3)    
+            dias_de_atraso = np.random.randint(0,5)
+            data_cobranca = datetime.strptime('2/28/2022', '%m/%d/%Y')
+                        
             for _ in tqdm(range (numero_de_pagamentos), desc = "Pagando contas"):
-                
+
+                if np.random.randint(1,101) <= 97:
+                    dias_de_atraso = np.random.randint(0,5) 
+                    # dt_pagamento = start_date = (dt_cobranca '-3d'), end_date = (dt_cobranca'+3d')     
+                    start_dt = data_cobranca - timedelta(days=dias_de_atraso)
+                    end_dt = data_cobranca + timedelta(days=dias_de_atraso)
+                    dt_pagamento = fake.date_between(start_date=start_dt, end_date=end_dt)
+                else:
+                    dt_pagamento = ""
                 id_pagamento = uuid.uuid1().int
+                
                 fake_pagamentos['idPagamento'].append(id_pagamento)
                 fake_pagamentos['idAluno'].append(id_aluno)
-                fake_pagamentos['DataPag'].append(fake.date_between(start_date= '-5M', end_date='today'))
-                fake_pagamentos['status'].append(np.random.choice(status_pagamento))
+                fake_pagamentos['DataPag'].append(dt_pagamento)
+                fake_pagamentos['DataCobranca'].append(data_cobranca)
+
+                if dt_pagamento == "":
+                    status_pagamento = "Inadimplente"
+                elif dt_pagamento > data_cobranca.date(): 
+                    status_pagamento = "Pago com atraso"
+                elif dt_pagamento <= data_cobranca.date():
+                    status_pagamento = "Quitado"
+                else: 
+                    status_pagamento = "indef."
+                fake_pagamentos['status'].append(status_pagamento)
             
                 # PagamentosExtra            
                 for _ in tqdm(range(numero_de_pagExtra), "Vendendo extra $$"):
@@ -184,6 +211,8 @@ def gerar_alunos():
                     fake_pagamentosExtra['DataPag'].append(fake.date_between(start_date= '-6M', end_date='today'))
                     fake_pagamentosExtra['tipo'].append(np.random.choice(pagExtra_tipo))
                     fake_pagamentosExtra['valor'].append(np.random.uniform(15.3,51.4))
+                
+                data_cobranca = data_cobranca + relativedelta(months=1)
 
         ################################################################
         # Aulas
@@ -275,7 +304,7 @@ if __name__ == '__main__':
     #Parametros da Escola
     nps = np.random.randint(1,5)
     #Quantidade de alunos por escola
-    qtAtlunos = 15
+    qtAtlunos = 1500
     #quantidade de professores no total
     qtProfessores = 35
     #quantiade média de salas por escola
@@ -344,7 +373,7 @@ if __name__ == '__main__':
     sla = [0,0,0,0,0,0,0,0,0,0,0,1]
     ids_contents = [1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32]
 
-    status_pagamento = ['Quitado','Quitado','Quitado','Quitado','Quitado','Quitado','Quitado','Quitado','Quitado','Quitado','Quitado','Inadimplente']
+    #status_pagamento = ['Quitado','Quitado','Quitado','Quitado','Quitado','Quitado','Quitado','Quitado','Quitado','Quitado','Quitado','Inadimplente']
     pagExtra_tipo = ['Unidade Extra Curricular', 'Livro', 'Teatro', 'Museu', 'Evento', 'Livro', 'Livro', 'Livro', 'Livro', 'Livro', 'Livro','Unidade Extra Curricular','Unidade Extra Curricular','Unidade Extra Curricular','Unidade Extra Curricular','Unidade Extra Curricular']
     classeprofessores = ['Dedicado','Dedicado','Dedicado','Dedicado','Dedicado','Dedicado','Dedicado','Dedicado','Dedicado','Dedicado','Dedicado', 'Part-time', 'Convidado', 'Convidado', 'Convidado']
     letras = ['a','b','c','d','e','f','g','h','i','j','k','l','m','n','o','p','q','r','s','t','u','v','w','x,','y','z']
@@ -392,8 +421,7 @@ if __name__ == '__main__':
 
     print("Salvando tudim em CSV")
 
-    #os.chdir('C:\\Users\\Gabriel\\Projetos\\FakerSchool_Generator\\Dataset')
-    os.chdir('C:\\Users\\Gabriel\\Projetos\\FakerSchool_Generator\\Dataset_fast')
+    os.chdir('C:\\Projetos\\DummySchool\\FakerSchool_Generator\\Dataset')
 
     pd.DataFrame(fake_alunos).to_csv("alunos.csv", index=False)
     pd.DataFrame(fake_ocorrencias).to_csv("ocorrencias.csv", index=False)
