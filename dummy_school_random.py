@@ -170,6 +170,9 @@ def gerar_alunos():
                 fake_analyticsResponsavelNPS['nota'].append(np.random.choice(perfil_nps))
                 fake_analyticsResponsavelNPS['textDescricao'].append(surveys_textDescricao)
 
+
+
+               
             # Pagamentos
             dias_de_atraso = np.random.randint(0,5)
             data_cobranca = datetime.strptime('2/28/2022', '%m/%d/%Y')
